@@ -1,0 +1,387 @@
+[
+ {
+  "cat": "Tiere",
+  "q": "Ein Oktopus hat _____ Herzen.",
+  "a": "drei",
+  "alt": [
+   "3"
+  ],
+  "decoys": [
+   "zwei",
+   "vier",
+   "acht"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Wombats produzieren würfelförmigen _____.",
+  "a": "Kot",
+  "alt": [
+   "Kacke",
+   "Dung",
+   "Stuhl",
+   "Köttel"
+  ],
+  "decoys": [
+   "Urin",
+   "Speichel",
+   "Schleim"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Gentoo-Pinguine schenken ihrer Partnerin zur Balz einen _____.",
+  "a": "Stein",
+  "alt": [
+   "Kieselstein",
+   "Steinchen",
+   "Kiesel"
+  ],
+  "decoys": [
+   "Fisch",
+   "Zweig",
+   "Federbüschel"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Ein Strauß hat Augen, die größer sind als sein _____.",
+  "a": "Gehirn",
+  "alt": [
+   "Hirn"
+  ],
+  "decoys": [
+   "Magen",
+   "Herz",
+   "Schnabel"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Giraffen haben genauso viele Halswirbel wie Menschen, nämlich _____.",
+  "a": "sieben",
+  "alt": [
+   "7"
+  ],
+  "decoys": [
+   "zwölf",
+   "drei",
+   "vierzig"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Das Schnabeltier hat keinen _____.",
+  "a": "Magen",
+  "alt": [],
+  "decoys": [
+   "Schwanz",
+   "Herzschlag",
+   "Knochen"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Napoleon wurde 1807 bei einer Jagd von Hunderten _____ angegriffen.",
+  "a": "Kaninchen",
+  "alt": [
+   "Hasen",
+   "Karnickel"
+  ],
+  "decoys": [
+   "Wildschweinen",
+   "Hunden",
+   "Krähen"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Flamingos werden rosa, weil sie viele _____ fressen.",
+  "a": "Krebstiere",
+  "alt": [
+   "Krebse",
+   "Garnelen",
+   "Algen",
+   "Krill"
+  ],
+  "decoys": [
+   "Rüben",
+   "Himbeeren",
+   "Karotten"
+  ]
+ },
+ {
+  "cat": "Wissen",
+  "q": "Der Eiffelturm wird im Sommer bis zu 15 Zentimeter höher, weil sich das _____ ausdehnt.",
+  "a": "Eisen",
+  "alt": [
+   "Metall",
+   "Stahl"
+  ],
+  "decoys": [
+   "Fundament",
+   "Beton",
+   "Gestein"
+  ]
+ },
+ {
+  "cat": "Wissen",
+  "q": "Ein Tag auf der Venus ist länger als ein _____ auf der Venus.",
+  "a": "Jahr",
+  "alt": [],
+  "decoys": [
+   "Monat",
+   "Jahrhundert",
+   "Gewitter"
+  ]
+ },
+ {
+  "cat": "Wissen",
+  "q": "Ein Blitz ist etwa fünfmal heißer als die Oberfläche der _____.",
+  "a": "Sonne",
+  "alt": [],
+  "decoys": [
+   "Venus",
+   "Lava",
+   "Erde"
+  ]
+ },
+ {
+  "cat": "Wissen",
+  "q": "Honig verdirbt praktisch nie. In ägyptischen Gräbern fand man noch essbaren Honig, der etwa _____ Jahre alt war.",
+  "a": "3000",
+  "alt": [
+   "dreitausend",
+   "3.000"
+  ],
+  "decoys": [
+   "300",
+   "800",
+   "12000"
+  ]
+ },
+ {
+  "cat": "Wissen",
+  "q": "Eine Wolke kann so viel wiegen wie etwa 100 _____.",
+  "a": "Elefanten",
+  "alt": [
+   "Elefant"
+  ],
+  "decoys": [
+   "Autos",
+   "Wale",
+   "Lastwagen"
+  ]
+ },
+ {
+  "cat": "Wissen",
+  "q": "Quarantäne kommt vom italienischen 'quaranta', der Zahl _____.",
+  "a": "vierzig",
+  "alt": [
+   "40"
+  ],
+  "decoys": [
+   "zehn",
+   "hundert",
+   "sieben"
+  ]
+ },
+ {
+  "cat": "Wissen",
+  "q": "Das Wort 'Roboter' stammt aus dem Tschechischen und bedeutete ursprünglich _____.",
+  "a": "Zwangsarbeit",
+  "alt": [
+   "Fronarbeit",
+   "Arbeit",
+   "Frondienst"
+  ],
+  "decoys": [
+   "Maschine",
+   "Diener",
+   "Eisenmann"
+  ]
+ },
+ {
+  "cat": "Wissen",
+  "q": "Kleopatra lebte zeitlich näher an der Mondlandung als am Bau der _____.",
+  "a": "Cheops-Pyramide",
+  "alt": [
+   "Pyramide",
+   "Pyramiden",
+   "Cheopspyramide",
+   "Pyramide von Gizeh",
+   "große Pyramide"
+  ],
+  "decoys": [
+   "Akropolis",
+   "Kolosseum",
+   "Chinesischen Mauer"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Die Wikinger trugen in Wirklichkeit keine Helme mit _____.",
+  "a": "Hörnern",
+  "alt": [
+   "Horn",
+   "Hörner",
+   "Hörnern"
+  ],
+  "decoys": [
+   "Federn",
+   "Fell",
+   "Gold"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Das erste Produkt, dessen Barcode 1974 an einer Supermarktkasse gescannt wurde, war eine Packung _____.",
+  "a": "Kaugummi",
+  "alt": [
+   "Wrigley's",
+   "Kaugummis"
+  ],
+  "decoys": [
+   "Zigaretten",
+   "Zahnpasta",
+   "Müsli"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Der Kugelschreiber wurde von László Bíró erfunden, der von Beruf _____ war.",
+  "a": "Journalist",
+  "alt": [
+   "Reporter",
+   "Zeitungsjournalist"
+  ],
+  "decoys": [
+   "Tischler",
+   "Schneider",
+   "Arzt"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Die Quadriga auf dem Brandenburger Tor wird von der Siegesgöttin _____ gelenkt.",
+  "a": "Victoria",
+  "alt": [
+   "Viktoria",
+   "Nike"
+  ],
+  "decoys": [
+   "Athene",
+   "Juno",
+   "Diana"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Der Name Lego bedeutet auf Dänisch ungefähr 'spiel _____'.",
+  "a": "gut",
+  "alt": [
+   "gut"
+  ],
+  "decoys": [
+   "viel",
+   "schön",
+   "lange"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Haribo steht für Hans Riegel aus _____.",
+  "a": "Bonn",
+  "alt": [],
+  "decoys": [
+   "Bremen",
+   "Bochum",
+   "Bamberg"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Coca-Cola enthielt in der Urversion Auszüge aus der Kolanuss und aus der _____-Pflanze.",
+  "a": "Koka",
+  "alt": [
+   "Coca",
+   "Kokapflanze",
+   "Cocapflanze"
+  ],
+  "decoys": [
+   "Tabak",
+   "Mohn",
+   "Hanf"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "New York hieß früher Nieuw _____.",
+  "a": "Amsterdam",
+  "alt": [],
+  "decoys": [
+   "Rotterdam",
+   "Utrecht",
+   "Haarlem"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Das Oktoberfest beginnt traditionell im _____.",
+  "a": "September",
+  "alt": [],
+  "decoys": [
+   "Oktober",
+   "August",
+   "November"
+  ]
+ },
+ {
+  "cat": "Land & Leute",
+  "q": "Die Hauptstadt von Australien ist nicht Sydney, sondern _____.",
+  "a": "Canberra",
+  "alt": [],
+  "decoys": [
+   "Melbourne",
+   "Perth",
+   "Brisbane"
+  ]
+ },
+ {
+  "cat": "Land & Leute",
+  "q": "Der höchste Berg Deutschlands ist die _____.",
+  "a": "Zugspitze",
+  "alt": [],
+  "decoys": [
+   "Watzmann",
+   "Feldberg",
+   "Brocken"
+  ]
+ },
+ {
+  "cat": "Land & Leute",
+  "q": "Deutschland hat _____ Bundesländer.",
+  "a": "sechzehn",
+  "alt": [
+   "16"
+  ],
+  "decoys": [
+   "vierzehn",
+   "zwölf",
+   "achtzehn"
+  ]
+ },
+ {
+  "cat": "Land & Leute",
+  "q": "Die Freiheitsstatue in New York war ein Geschenk von _____.",
+  "a": "Frankreich",
+  "alt": [
+   "Franzosen"
+  ],
+  "decoys": [
+   "England",
+   "Spanien",
+   "Italien"
+  ]
+ }
+]
