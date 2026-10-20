@@ -383,5 +383,1804 @@
    "Spanien",
    "Italien"
   ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Die Zunge einer Giraffe ist lang und in einer ungewöhnlichen Farbe, nämlich _____.",
+  "a": "dunkelviolett",
+  "alt": [
+   "violett",
+   "lila",
+   "dunkelblau",
+   "schwarz",
+   "bläulich",
+   "dunkel"
+  ],
+  "decoys": [
+   "rosa",
+   "knallgrün",
+   "gelb"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Ein Faultier braucht bis zu einem Monat, um ein Blatt zu _____.",
+  "a": "verdauen",
+  "alt": [
+   "verdaut"
+  ],
+  "decoys": [
+   "pflücken",
+   "tragen",
+   "kauen"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Seeotter halten beim Schlafen Händchen, damit sie nicht _____.",
+  "a": "abtreiben",
+  "alt": [
+   "wegtreiben",
+   "auseinandertreiben",
+   "davontreiben",
+   "voneinander wegtreiben"
+  ],
+  "decoys": [
+   "frieren",
+   "aufwachen",
+   "ertrinken"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Wale und Delfine schlafen, indem sie immer nur eine Hälfte ihres _____ ausruhen lassen.",
+  "a": "Gehirns",
+  "alt": [
+   "Gehirn",
+   "Hirns",
+   "Hirn"
+  ],
+  "decoys": [
+   "Körpers",
+   "Herzens",
+   "Schwanzes"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Der Gepard kann zwar schnurren, aber nicht _____.",
+  "a": "brüllen",
+  "alt": [
+   "brüllt",
+   "röhren"
+  ],
+  "decoys": [
+   "klettern",
+   "schwimmen",
+   "springen"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Der Pinguin hat ein Knie, aber man sieht es nicht, weil es unter den _____ versteckt ist.",
+  "a": "Federn",
+  "alt": [
+   "Feder",
+   "Federkleid"
+  ],
+  "decoys": [
+   "Flossen",
+   "Schneemassen",
+   "Krallen"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Die Zunge eines Blauwals wiegt so viel wie ein ausgewachsener _____.",
+  "a": "Elefant",
+  "alt": [
+   "Elefanten"
+  ],
+  "decoys": [
+   "Pferd",
+   "Tisch",
+   "Mensch"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Eulen können ihren Kopf um bis zu _____ Grad drehen.",
+  "a": "270",
+  "alt": [
+   "zweihundertsiebzig"
+  ],
+  "decoys": [
+   "90",
+   "180",
+   "360"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Der Kolibri ist der einzige Vogel, der dauerhaft _____ fliegen kann.",
+  "a": "rückwärts",
+  "alt": [
+   "zurück"
+  ],
+  "decoys": [
+   "blind",
+   "im Schlaf",
+   "im Dunkeln"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Koalas haben Fingerabdrücke, die denen von _____ zum Verwechseln ähnlich sehen.",
+  "a": "Menschen",
+  "alt": [
+   "Mensch",
+   "Menschenhänden"
+  ],
+  "decoys": [
+   "Mäusen",
+   "Katzen",
+   "Pinguinen"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Ein Schmetterling schmeckt mit seinen _____.",
+  "a": "Füßen",
+  "alt": [
+   "Beinen",
+   "Füße",
+   "Beine"
+  ],
+  "decoys": [
+   "Flügeln",
+   "Augen",
+   "Flügelschuppen"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Krokodile können ihre _____ nicht herausstrecken.",
+  "a": "Zunge",
+  "alt": [
+   "Zungen"
+  ],
+  "decoys": [
+   "Augen",
+   "Krallen",
+   "Schwänze"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Bei Seepferdchen werden die Jungen von den _____ ausgetragen.",
+  "a": "Männchen",
+  "alt": [
+   "Männchen",
+   "Vätern",
+   "Vater",
+   "Papas"
+  ],
+  "decoys": [
+   "Weibchen",
+   "Großeltern",
+   "Tanten"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Eine Kuh hat keine oberen _____.",
+  "a": "Schneidezähne",
+  "alt": [
+   "Frontzähne",
+   "Vorderzähne",
+   "Zähne",
+   "Eckzähne"
+  ],
+  "decoys": [
+   "Backenzähne",
+   "Nasenlöcher",
+   "Augenlider"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Ein Maultier ist die Kreuzung aus einer Pferdestute und einem _____.",
+  "a": "Esel",
+  "alt": [
+   "Eselhengst"
+  ],
+  "decoys": [
+   "Zebra",
+   "Kamel",
+   "Ochsen"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Ein Hai hat keine Knochen, sondern ein Skelett aus _____.",
+  "a": "Knorpel",
+  "alt": [
+   "Knorpeln"
+  ],
+  "decoys": [
+   "Gummi",
+   "Gelee",
+   "Muscheln"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Katzen können nicht _____ schmecken.",
+  "a": "süß",
+  "alt": [
+   "Süßes",
+   "süßes"
+  ],
+  "decoys": [
+   "salzig",
+   "sauer",
+   "scharf"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Das Fell des Eisbären ist durchsichtig, darunter ist seine Haut _____.",
+  "a": "schwarz",
+  "alt": [
+   "dunkel",
+   "schwarze"
+  ],
+  "decoys": [
+   "rosa",
+   "blau",
+   "weiß"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Ein Tiger hat nicht nur gestreiftes Fell, sondern auch gestreifte _____.",
+  "a": "Haut",
+  "alt": [
+   "Haut"
+  ],
+  "decoys": [
+   "Zunge",
+   "Augen",
+   "Krallen"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Ein Axolotl kann sogar Teile seines _____ nachwachsen lassen.",
+  "a": "Gehirns",
+  "alt": [
+   "Gehirn",
+   "Hirns",
+   "Herzens",
+   "Herz",
+   "Rückenmarks",
+   "Rückenmark",
+   "Beine",
+   "Augen",
+   "Schwanzes"
+  ],
+  "decoys": [
+   "Panzers",
+   "Fells",
+   "Schnabels"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Das Blut von Kraken ist _____.",
+  "a": "blau",
+  "alt": [
+   "bläulich"
+  ],
+  "decoys": [
+   "grün",
+   "schwarz",
+   "gelb"
+  ]
+ },
+ {
+  "cat": "Essen & Trinken",
+  "q": "Ketchup wurde in den 1830er Jahren in den USA zeitweise als _____ verkauft.",
+  "a": "Medizin",
+  "alt": [
+   "Heilmittel",
+   "Arznei",
+   "Medikament"
+  ],
+  "decoys": [
+   "Haarwasser",
+   "Kleber",
+   "Schuhcreme"
+  ]
+ },
+ {
+  "cat": "Essen & Trinken",
+  "q": "Erdnüsse sind botanisch gesehen keine Nüsse, sondern _____.",
+  "a": "Hülsenfrüchte",
+  "alt": [
+   "Hülsenfrucht",
+   "Leguminosen",
+   "Leguminose"
+  ],
+  "decoys": [
+   "Beeren",
+   "Wurzeln",
+   "Pilze"
+  ]
+ },
+ {
+  "cat": "Essen & Trinken",
+  "q": "Möhren waren ursprünglich meistens nicht orange, sondern _____.",
+  "a": "lila",
+  "alt": [
+   "violett",
+   "purpur",
+   "gelb",
+   "weiß"
+  ],
+  "decoys": [
+   "grün",
+   "blau",
+   "rosa"
+  ]
+ },
+ {
+  "cat": "Essen & Trinken",
+  "q": "Das teuerste Gewürz der Welt ist _____.",
+  "a": "Safran",
+  "alt": [],
+  "decoys": [
+   "Zimt",
+   "Pfeffer",
+   "Muskat"
+  ]
+ },
+ {
+  "cat": "Essen & Trinken",
+  "q": "Bananen sind leicht radioaktiv, weil sie viel _____ enthalten.",
+  "a": "Kalium",
+  "alt": [
+   "Kalium-40"
+  ],
+  "decoys": [
+   "Eisen",
+   "Uran",
+   "Magnesium"
+  ]
+ },
+ {
+  "cat": "Essen & Trinken",
+  "q": "Die Schärfe in Chilischoten kommt vom Stoff _____.",
+  "a": "Capsaicin",
+  "alt": [
+   "Kapsaizin"
+  ],
+  "decoys": [
+   "Piperin",
+   "Menthol",
+   "Koffein"
+  ]
+ },
+ {
+  "cat": "Essen & Trinken",
+  "q": "Kaffeebohnen sind botanisch gesehen die Kerne einer _____.",
+  "a": "Kirsche",
+  "alt": [
+   "Frucht",
+   "Kaffeekirsche",
+   "Beere"
+  ],
+  "decoys": [
+   "Nuss",
+   "Traube",
+   "Schote"
+  ]
+ },
+ {
+  "cat": "Essen & Trinken",
+  "q": "Vanille wird aus den Schoten einer _____ gewonnen.",
+  "a": "Orchidee",
+  "alt": [
+   "Orchideenart"
+  ],
+  "decoys": [
+   "Palme",
+   "Rose",
+   "Bohnenpflanze"
+  ]
+ },
+ {
+  "cat": "Essen & Trinken",
+  "q": "Der Apfel gehört botanisch zur Familie der _____.",
+  "a": "Rosengewächse",
+  "alt": [
+   "Rosen",
+   "Rosaceae",
+   "Rosenfamilie",
+   "Rosengewächs"
+  ],
+  "decoys": [
+   "Nachtschattengewächse",
+   "Kürbisgewächse",
+   "Liliengewächse"
+  ]
+ },
+ {
+  "cat": "Essen & Trinken",
+  "q": "Cashewkerne wachsen unten an einer Frucht, die man _____ nennt.",
+  "a": "Cashewapfel",
+  "alt": [
+   "Apfel"
+  ],
+  "decoys": [
+   "Cashewmango",
+   "Cashewkürbis",
+   "Cashewbeere"
+  ]
+ },
+ {
+  "cat": "Essen & Trinken",
+  "q": "Der Bambus ist botanisch gesehen ein _____.",
+  "a": "Gras",
+  "alt": [
+   "Süßgras"
+  ],
+  "decoys": [
+   "Baum",
+   "Strauch",
+   "Farn"
+  ]
+ },
+ {
+  "cat": "Sprache & Wörter",
+  "q": "Die Ananas heißt im Englischen 'pineapple', wörtlich also 'Kiefern-_____'.",
+  "a": "Apfel",
+  "alt": [
+   "Apfel"
+  ],
+  "decoys": [
+   "Birne",
+   "Kürbis",
+   "Beere"
+  ]
+ },
+ {
+  "cat": "Sprache & Wörter",
+  "q": "Das Wort 'Marmelade' kommt vom portugiesischen 'marmelo', was _____ bedeutet.",
+  "a": "Quitte",
+  "alt": [
+   "Quitten"
+  ],
+  "decoys": [
+   "Erdbeere",
+   "Zucker",
+   "Kirsche"
+  ]
+ },
+ {
+  "cat": "Sprache & Wörter",
+  "q": "Das Wort 'Karaoke' bedeutet auf Japanisch ungefähr 'leeres _____'.",
+  "a": "Orchester",
+  "alt": [
+   "Orchestra"
+  ],
+  "decoys": [
+   "Mikrofon",
+   "Zimmer",
+   "Gesicht"
+  ]
+ },
+ {
+  "cat": "Sprache & Wörter",
+  "q": "Das japanische Wort 'Tsunami' bedeutet wörtlich 'Welle im _____'.",
+  "a": "Hafen",
+  "alt": [
+   "Hafenwelle"
+  ],
+  "decoys": [
+   "Meer",
+   "Sturm",
+   "Wind"
+  ]
+ },
+ {
+  "cat": "Sprache & Wörter",
+  "q": "Das Wort 'Alarm' kommt vom italienischen 'all'arme', also 'zu den _____!'.",
+  "a": "Waffen",
+  "alt": [
+   "Waffe"
+  ],
+  "decoys": [
+   "Türen",
+   "Pferden",
+   "Mauern"
+  ]
+ },
+ {
+  "cat": "Sprache & Wörter",
+  "q": "Das englische Wort 'Jeans' leitet sich vom französischen Namen der italienischen Stadt _____ ab.",
+  "a": "Genua",
+  "alt": [
+   "Genoa",
+   "Gênes"
+  ],
+  "decoys": [
+   "Mailand",
+   "Florenz",
+   "Neapel"
+  ]
+ },
+ {
+  "cat": "Sprache & Wörter",
+  "q": "Ein altes deutsches Zählmaß ist der 'Schock', das sind _____ Stück.",
+  "a": "60",
+  "alt": [
+   "sechzig"
+  ],
+  "decoys": [
+   "20",
+   "100",
+   "144"
+  ]
+ },
+ {
+  "cat": "Sprache & Wörter",
+  "q": "Eine 'Mandel' ist ein altes Zählmaß für _____ Stück.",
+  "a": "15",
+  "alt": [
+   "fünfzehn"
+  ],
+  "decoys": [
+   "10",
+   "12",
+   "20"
+  ]
+ },
+ {
+  "cat": "Sprache & Wörter",
+  "q": "Der Notruf 'Mayday' kommt vom französischen 'm'aidez', übersetzt 'helft _____!'.",
+  "a": "mir",
+  "alt": [
+   "mir"
+  ],
+  "decoys": [
+   "uns",
+   "schnell",
+   "Gott"
+  ]
+ },
+ {
+  "cat": "Sprache & Wörter",
+  "q": "Das @-Zeichen heißt auf Italienisch 'chiocciola', übersetzt _____.",
+  "a": "Schnecke",
+  "alt": [
+   "Schnecken"
+  ],
+  "decoys": [
+   "Wurm",
+   "Ente",
+   "Biene"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Die erste Computermaus von 1964 hatte ein Gehäuse aus _____.",
+  "a": "Holz",
+  "alt": [
+   "Holzgehäuse"
+  ],
+  "decoys": [
+   "Metall",
+   "Pappe",
+   "Knochen"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Das Wort 'Spam' für Werbemails stammt aus einem Sketch von _____.",
+  "a": "Monty Python",
+  "alt": [
+   "Monty Pythons"
+  ],
+  "decoys": [
+   "Loriot",
+   "den Ärzten",
+   "Hape Kerkeling"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Das Unternehmen Nintendo stellte 1889 zuerst _____ her.",
+  "a": "Spielkarten",
+  "alt": [
+   "Karten",
+   "Hanafuda",
+   "Kartenspiele"
+  ],
+  "decoys": [
+   "Süßigkeiten",
+   "Bleistifte",
+   "Fahrräder"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Der Name 'Google' kommt von 'Googol', der Zahl 1 mit _____ Nullen.",
+  "a": "100",
+  "alt": [
+   "hundert"
+  ],
+  "decoys": [
+   "10",
+   "1000",
+   "1 Million"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Nokia stellte früher unter anderem _____ her.",
+  "a": "Gummistiefel",
+  "alt": [
+   "Stiefel",
+   "Klopapier",
+   "Toilettenpapier",
+   "Autoreifen",
+   "Reifen"
+  ],
+  "decoys": [
+   "Spielzeug",
+   "Rasierer",
+   "Kaugummi"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Amazon hieß in der allerersten Zeit _____.",
+  "a": "Cadabra",
+  "alt": [
+   "Cadabra.com"
+  ],
+  "decoys": [
+   "Bezos Books",
+   "Bookstream",
+   "Rainstream"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Google hieß in den Anfangstagen _____.",
+  "a": "BackRub",
+  "alt": [
+   "Back Rub"
+  ],
+  "decoys": [
+   "Searchy",
+   "WebSpinner",
+   "Findr"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Bluetooth ist nach dem dänischen König Harald _____ benannt.",
+  "a": "Blauzahn",
+  "alt": [
+   "Bluetooth",
+   "Blåtand"
+  ],
+  "decoys": [
+   "Rotbart",
+   "Graubart",
+   "Schwarzzahn"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Der Vogel im alten Twitter-Logo hatte den Namen _____.",
+  "a": "Larry",
+  "alt": [
+   "Larry der Vogel"
+  ],
+  "decoys": [
+   "Tweety",
+   "Bobby",
+   "Pepe"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Den Startsound von Windows 95 komponierte der Musiker _____.",
+  "a": "Brian Eno",
+  "alt": [
+   "Eno"
+  ],
+  "decoys": [
+   "Hans Zimmer",
+   "Mike Oldfield",
+   "Moby"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Der berühmte Computer-Bug von 1947 war eine echte _____, die in einem Relais steckte.",
+  "a": "Motte",
+  "alt": [
+   "Nachtfalter",
+   "Falter"
+  ],
+  "decoys": [
+   "Maus",
+   "Spinne",
+   "Schnecke"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Die erste Webcam der Welt wurde aufgebaut, um eine _____ zu überwachen.",
+  "a": "Kaffeemaschine",
+  "alt": [
+   "Kaffeekanne",
+   "Kaffeekocher"
+  ],
+  "decoys": [
+   "Katze",
+   "Straße",
+   "Pflanze"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Alexander Graham Bell wollte, dass man das Telefon mit '_____' abnimmt.",
+  "a": "Ahoy",
+  "alt": [
+   "Ahoi",
+   "Ahoy-hoy"
+  ],
+  "decoys": [
+   "Hallo",
+   "Servus",
+   "Moin"
+  ]
+ },
+ {
+  "cat": "Weltall & Natur",
+  "q": "Auf der Venus geht die Sonne im _____ auf.",
+  "a": "Westen",
+  "alt": [
+   "Westen"
+  ],
+  "decoys": [
+   "Norden",
+   "Osten",
+   "Süden"
+  ]
+ },
+ {
+  "cat": "Weltall & Natur",
+  "q": "Ein Jahr auf dem Merkur dauert nur etwa _____ Erdentage.",
+  "a": "88",
+  "alt": [
+   "achtundachtzig"
+  ],
+  "decoys": [
+   "12",
+   "365",
+   "30"
+  ]
+ },
+ {
+  "cat": "Weltall & Natur",
+  "q": "Der Saturn ist so leicht, dass er in einer riesigen Badewanne _____ würde.",
+  "a": "schwimmen",
+  "alt": [
+   "treiben",
+   "obenauf schwimmen"
+  ],
+  "decoys": [
+   "verdampfen",
+   "explodieren",
+   "versinken"
+  ]
+ },
+ {
+  "cat": "Weltall & Natur",
+  "q": "Der größte Vulkan im Sonnensystem steht auf dem _____.",
+  "a": "Mars",
+  "alt": [
+   "Mars"
+  ],
+  "decoys": [
+   "Mond",
+   "Jupiter",
+   "Merkur"
+  ]
+ },
+ {
+  "cat": "Weltall & Natur",
+  "q": "Das Licht der Sonne braucht etwa _____ Minuten bis zur Erde.",
+  "a": "acht",
+  "alt": [
+   "8"
+  ],
+  "decoys": [
+   "zwei",
+   "dreißig",
+   "vier"
+  ]
+ },
+ {
+  "cat": "Weltall & Natur",
+  "q": "Auf der Erde gibt es mehr _____ als Sterne in der Milchstraße.",
+  "a": "Bäume",
+  "alt": [
+   "Baum",
+   "Ameisen",
+   "Ameise",
+   "Bakterien",
+   "Sandkörner",
+   "Insekten"
+  ],
+  "decoys": [
+   "Menschen",
+   "Autos",
+   "Städte"
+  ]
+ },
+ {
+  "cat": "Weltall & Natur",
+  "q": "Im Toten Meer kann man wegen des vielen Salzes nicht _____.",
+  "a": "untergehen",
+  "alt": [
+   "sinken",
+   "versinken"
+  ],
+  "decoys": [
+   "schwimmen",
+   "stehen",
+   "frieren"
+  ]
+ },
+ {
+  "cat": "Weltall & Natur",
+  "q": "Die größte Wüste der Welt ist die _____.",
+  "a": "Antarktis",
+  "alt": [
+   "Antarktische Wüste"
+  ],
+  "decoys": [
+   "Sahara",
+   "Gobi",
+   "Kalahari"
+  ]
+ },
+ {
+  "cat": "Weltall & Natur",
+  "q": "Auf dem Mars ist der Sonnenuntergang _____.",
+  "a": "blau",
+  "alt": [
+   "bläulich"
+  ],
+  "decoys": [
+   "rosa",
+   "grün",
+   "grau"
+  ]
+ },
+ {
+  "cat": "Sport & Spiele",
+  "q": "Das längste Tennismatch der Geschichte (Wimbledon 2010) dauerte über _____ Stunden.",
+  "a": "11",
+  "alt": [
+   "elf"
+  ],
+  "decoys": [
+   "5",
+   "7",
+   "14"
+  ]
+ },
+ {
+  "cat": "Sport & Spiele",
+  "q": "Beim ersten Basketballspiel 1891 dienten als Körbe _____körbe.",
+  "a": "Pfirsich",
+  "alt": [
+   "Pfirsichkörbe",
+   "Pfirsichkorb"
+  ],
+  "decoys": [
+   "Apfel",
+   "Wäsche",
+   "Kartoffel"
+  ]
+ },
+ {
+  "cat": "Sport & Spiele",
+  "q": "Der gestohlene Fußball-WM-Pokal von 1966 wurde von einem Hund namens _____ wiedergefunden.",
+  "a": "Pickles",
+  "alt": [],
+  "decoys": [
+   "Bello",
+   "Rex",
+   "Lucky"
+  ]
+ },
+ {
+  "cat": "Sport & Spiele",
+  "q": "Mario hieß in seinem ersten Spiel Donkey Kong noch _____.",
+  "a": "Jumpman",
+  "alt": [
+   "Jump Man"
+  ],
+  "decoys": [
+   "Mr. Hop",
+   "Plumbo",
+   "Leapman"
+  ]
+ },
+ {
+  "cat": "Sport & Spiele",
+  "q": "Der Creeper in Minecraft entstand durch einen Programmierfehler beim Versuch, ein _____ zu bauen.",
+  "a": "Schwein",
+  "alt": [
+   "Schweinchen"
+  ],
+  "decoys": [
+   "Huhn",
+   "Pferd",
+   "Schaf"
+  ]
+ },
+ {
+  "cat": "Sport & Spiele",
+  "q": "Bis 1920 war bei den Olympischen Spielen _____ eine Disziplin.",
+  "a": "Tauziehen",
+  "alt": [
+   "Tauziehen"
+  ],
+  "decoys": [
+   "Schach",
+   "Seilspringen",
+   "Kuhmelken"
+  ]
+ },
+ {
+  "cat": "Film & Musik",
+  "q": "Der mechanische Hai im Film 'Der weiße Hai' hatte den Spitznamen _____.",
+  "a": "Bruce",
+  "alt": [],
+  "decoys": [
+   "Fritz",
+   "Bob",
+   "Flipper"
+  ]
+ },
+ {
+  "cat": "Film & Musik",
+  "q": "Die erste Stimme von Micky Maus war _____ selbst.",
+  "a": "Walt Disney",
+  "alt": [
+   "Disney"
+  ],
+  "decoys": [
+   "Charlie Chaplin",
+   "Mel Blanc",
+   "Bing Crosby"
+  ]
+ },
+ {
+  "cat": "Film & Musik",
+  "q": "In 'E.T.' lockt Elliott den Außerirdischen mit _____ an.",
+  "a": "Reese's Pieces",
+  "alt": [
+   "Reeses Pieces",
+   "Reese's",
+   "Reeses"
+  ],
+  "decoys": [
+   "Smarties",
+   "Skittles",
+   "Haribo"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Im Mittelalter wurden manchmal Tiere vor Gericht gestellt, zum Beispiel ein _____.",
+  "a": "Schwein",
+  "alt": [
+   "Schweine"
+  ],
+  "decoys": [
+   "Papagei",
+   "Goldfisch",
+   "Pfau"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Der Eiffelturm sollte nach der Weltausstellung 1889 nach 20 Jahren wieder _____ werden.",
+  "a": "abgerissen",
+  "alt": [
+   "abgebaut",
+   "demontiert",
+   "entfernt",
+   "abgetragen"
+  ],
+  "decoys": [
+   "verkauft",
+   "vergoldet",
+   "versetzt"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Die Universität Oxford ist älter als das Reich der _____.",
+  "a": "Azteken",
+  "alt": [
+   "Inka",
+   "Mongolen",
+   "Mongolenreich",
+   "Aztekenreich"
+  ],
+  "decoys": [
+   "Römer",
+   "Pharaonen",
+   "Wikinger"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Das australische Militär führte 1932 den sogenannten 'Großen Krieg gegen die _____'.",
+  "a": "Emus",
+  "alt": [
+   "Emu"
+  ],
+  "decoys": [
+   "Kängurus",
+   "Krähen",
+   "Koalas"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Die Freiheitsstatue besteht aus Kupfer und ist grün durch eine Schicht _____.",
+  "a": "Patina",
+  "alt": [
+   "Grünspan",
+   "Oxidation",
+   "Oxid"
+  ],
+  "decoys": [
+   "Farbe",
+   "Algen",
+   "Moos"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Die Mona Lisa hing zeitweise im Schlafzimmer von _____.",
+  "a": "Napoleon",
+  "alt": [
+   "Napoleon Bonaparte"
+  ],
+  "decoys": [
+   "Goethe",
+   "Mozart",
+   "Queen Victoria"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Gustave Eiffel baute sich ganz oben im Eiffelturm eine kleine _____.",
+  "a": "Wohnung",
+  "alt": [
+   "Apartment",
+   "Bleibe",
+   "Unterkunft"
+  ],
+  "decoys": [
+   "Bar",
+   "Sauna",
+   "Kapelle"
+  ]
+ },
+ {
+  "cat": "Geschichte & Marken",
+  "q": "Der erste motorisierte Staubsauger von 1901 war so groß, dass ihn ein _____ ziehen musste.",
+  "a": "Pferd",
+  "alt": [
+   "Pferde",
+   "Pferdegespann",
+   "Gespann",
+   "Pferdewagen"
+  ],
+  "decoys": [
+   "Ochse",
+   "Hund",
+   "Traktor"
+  ]
+ },
+ {
+  "cat": "Land & Leute",
+  "q": "In Island gibt es keine _____.",
+  "a": "Eisenbahnen",
+  "alt": [
+   "Eisenbahn",
+   "Züge",
+   "Zug",
+   "Bahnstrecken",
+   "Armee",
+   "Streitkräfte",
+   "McDonald's",
+   "Schlangen",
+   "Reptilien"
+  ],
+  "decoys": [
+   "Vulkane",
+   "Flüsse",
+   "Schafe"
+  ]
+ },
+ {
+  "cat": "Land & Leute",
+  "q": "Das Land mit den meisten Zeitzonen ist _____.",
+  "a": "Frankreich",
+  "alt": [],
+  "decoys": [
+   "Russland",
+   "USA",
+   "China"
+  ]
+ },
+ {
+  "cat": "Land & Leute",
+  "q": "In Australien leben mehr _____ als Menschen.",
+  "a": "Kängurus",
+  "alt": [
+   "Känguru",
+   "Schafe",
+   "Schaf"
+  ],
+  "decoys": [
+   "Koalas",
+   "Kamele",
+   "Krokodile"
+  ]
+ },
+ {
+  "cat": "Land & Leute",
+  "q": "Der Vatikan hat Geldautomaten, bei denen man das Menü auf _____ wählen kann.",
+  "a": "Latein",
+  "alt": [
+   "Lateinisch"
+  ],
+  "decoys": [
+   "Esperanto",
+   "Aramäisch",
+   "Altgriechisch"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "Der Penis des Blauwals ist etwa _____ lang.",
+  "a": "2,5 Meter",
+  "alt": [
+   "zweieinhalb Meter",
+   "2 bis 3 Meter",
+   "2,5 m"
+  ],
+  "decoys": [
+   "50 Zentimeter",
+   "6 Meter",
+   "12 Meter"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "Der Penis einer Ente ist _____ geformt.",
+  "a": "wie ein Korkenzieher",
+  "alt": [
+   "Korkenzieher",
+   "spiralförmig",
+   "Spirale"
+  ],
+  "decoys": [
+   "wie eine Banane",
+   "wie eine Feder",
+   "wie ein Knoten"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "Der Penis des Ameisenigels hat vier _____.",
+  "a": "Köpfe",
+  "alt": [
+   "Eicheln",
+   "Spitzen"
+  ],
+  "decoys": [
+   "Nasen",
+   "Beulen",
+   "Ringe"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "Beim Küssen tauschen zwei Menschen in zehn Sekunden rund 80 Millionen _____ aus.",
+  "a": "Bakterien",
+  "alt": [
+   "Keime"
+  ],
+  "decoys": [
+   "Vitamine",
+   "Kalorien",
+   "Duftstoffe"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "Das Weibchen der Gottesanbeterin frisst beim Sex manchmal den _____ des Männchens.",
+  "a": "Kopf",
+  "alt": [
+   "Schädel"
+  ],
+  "decoys": [
+   "Fuß",
+   "Namen",
+   "Rücken"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "Bonobos lösen Streit oft mit _____.",
+  "a": "Sex",
+  "alt": [
+   "Geschlechtsverkehr",
+   "Kuscheln"
+  ],
+  "decoys": [
+   "Kitzeln",
+   "Singen",
+   "Armdrücken"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "Ein Mensch lässt am Tag durchschnittlich etwa _____ Mal einen fahren.",
+  "a": "14",
+  "alt": [
+   "vierzehn",
+   "10 bis 20",
+   "zwischen 10 und 20"
+  ],
+  "decoys": [
+   "3",
+   "40",
+   "100"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "Die alten Römer benutzten _____ als Mundwasser.",
+  "a": "Urin",
+  "alt": [
+   "Pisse"
+  ],
+  "decoys": [
+   "Rotwein",
+   "Olivenöl",
+   "Ziegenmilch"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "Kaiser Vespasian führte im alten Rom eine Steuer auf öffentliche _____ ein.",
+  "a": "Toiletten",
+  "alt": [
+   "Latrinen",
+   "Pissoirs",
+   "Urin",
+   "Klos"
+  ],
+  "decoys": [
+   "Küsse",
+   "Schnurrbärte",
+   "Hühner"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "In Kawasaki feiert man jedes Jahr ein Fest, bei dem ein riesiger _____ durch die Straßen getragen wird.",
+  "a": "Penis",
+  "alt": [
+   "Phallus"
+  ],
+  "decoys": [
+   "Fisch",
+   "Drache",
+   "Pilz"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "In Serbien findet jährlich eine Weltmeisterschaft im Kochen von _____ statt.",
+  "a": "Stierhoden",
+  "alt": [
+   "Hoden",
+   "Bullenhoden",
+   "Eiern",
+   "Stierhodeneintopf"
+  ],
+  "decoys": [
+   "Schneckensuppe",
+   "Spinnen",
+   "Würmern"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "Der Pathologe, der Einsteins Leiche untersuchte, nahm sein _____ mit nach Hause.",
+  "a": "Gehirn",
+  "alt": [
+   "Hirn"
+  ],
+  "decoys": [
+   "Herz",
+   "Schnurrbart",
+   "Violine"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "Mozart schrieb einen Kanon mit dem Titel 'Leck mich im _____'.",
+  "a": "Arsch",
+  "alt": [
+   "Hintern",
+   "Po"
+  ],
+  "decoys": [
+   "Ohr",
+   "Schuh",
+   "Takt"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "In Dänemark werden unverheiratete 25-Jährige zum Geburtstag traditionell mit _____ beworfen.",
+  "a": "Zimt",
+  "alt": [
+   "Zimtpulver"
+  ],
+  "decoys": [
+   "Mehl",
+   "Reis",
+   "Federn"
+  ]
+ },
+ {
+  "cat": "Spicy 18+",
+  "q": "Der berühmte Casanova arbeitete am Ende seines Lebens als _____.",
+  "a": "Bibliothekar",
+  "alt": [
+   "Büchereiverwalter"
+  ],
+  "decoys": [
+   "Bäcker",
+   "Totengräber",
+   "Zahnarzt"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Der Kot eines Wombats hat die Form von _____.",
+  "a": "Würfeln",
+  "alt": [
+   "Würfel",
+   "Quadern",
+   "Quader"
+  ],
+  "decoys": [
+   "Kugeln",
+   "Herzchen",
+   "Dreiecken"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Faultiere gehen nur etwa einmal pro _____ aufs Klo.",
+  "a": "Woche",
+  "alt": [
+   "Woche"
+  ],
+  "decoys": [
+   "Stunde",
+   "Monat",
+   "Jahr"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Hummer pinkeln aus dem _____.",
+  "a": "Gesicht",
+  "alt": [
+   "Kopf"
+  ],
+  "decoys": [
+   "Bauch",
+   "Rücken",
+   "Schwanz"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Kängurus können nicht _____ laufen.",
+  "a": "rückwärts",
+  "alt": [
+   "zurück"
+  ],
+  "decoys": [
+   "seitwärts",
+   "bergauf",
+   "nachts"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Eine Giraffe hat im Hals genauso viele Wirbel wie ein Mensch, nämlich _____.",
+  "a": "sieben",
+  "alt": [
+   "7"
+  ],
+  "decoys": [
+   "zwölf",
+   "24",
+   "40"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Beim Seepferdchen wird das _____ schwanger.",
+  "a": "Männchen",
+  "alt": [
+   "Papa",
+   "Vater",
+   "Männliche"
+  ],
+  "decoys": [
+   "Weibchen",
+   "Jungtier",
+   "Königspaar"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Pinguin-Männchen schenken ihrer Angebeteten manchmal einen _____.",
+  "a": "Kieselstein",
+  "alt": [
+   "Stein"
+  ],
+  "decoys": [
+   "Ring",
+   "Blumenstrauß",
+   "Fisch-Gutschein"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Seeotter halten im Schlaf mit ihren Freunden _____.",
+  "a": "Händchen",
+  "alt": [
+   "Pfoten",
+   "Hände",
+   "Hand"
+  ],
+  "decoys": [
+   "Füße",
+   "Schwänze",
+   "Nasen"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Krähen merken sich Gesichter und können jahrelang _____ sein.",
+  "a": "nachtragend",
+  "alt": [
+   "sauer",
+   "rachsüchtig"
+  ],
+  "decoys": [
+   "verliebt",
+   "schüchtern",
+   "höflich"
+  ]
+ },
+ {
+  "cat": "Tiere",
+  "q": "Der Mensch teilt etwa 60 Prozent seiner Gene mit der _____.",
+  "a": "Banane",
+  "alt": [
+   "Bananen"
+  ],
+  "decoys": [
+   "Kartoffel",
+   "Erdbeere",
+   "Gurke"
+  ]
+ },
+ {
+  "cat": "Schräge Geschichte",
+  "q": "Zar Peter der Große führte eine Steuer auf _____ ein.",
+  "a": "Bärte",
+  "alt": [
+   "Bart",
+   "Gesichtsbehaarung"
+  ],
+  "decoys": [
+   "Fenster",
+   "Hüte",
+   "Kerzen"
+  ]
+ },
+ {
+  "cat": "Schräge Geschichte",
+  "q": "Am Hof von Heinrich VIII. gab es einen Diener, der dem König beim Toilettengang half: den 'Groom of the _____'.",
+  "a": "Stool",
+  "alt": [
+   "Stuhl"
+  ],
+  "decoys": [
+   "Throne",
+   "Bath",
+   "Pot"
+  ]
+ },
+ {
+  "cat": "Schräge Geschichte",
+  "q": "Napoleon wurde angeblich bei einer Jagd von hunderten _____ angegriffen.",
+  "a": "Kaninchen",
+  "alt": [
+   "Hasen",
+   "Karnickeln"
+  ],
+  "decoys": [
+   "Gänsen",
+   "Wildschweinen",
+   "Katzen"
+  ]
+ },
+ {
+  "cat": "Schräge Geschichte",
+  "q": "Isaac Newton schob sich für ein Experiment eine stumpfe _____ unters Auge.",
+  "a": "Nadel",
+  "alt": [
+   "Ahle"
+  ],
+  "decoys": [
+   "Gabel",
+   "Feder",
+   "Kerze"
+  ]
+ },
+ {
+  "cat": "Schräge Geschichte",
+  "q": "Nikola Tesla soll sich in eine _____ verliebt haben.",
+  "a": "Taube",
+  "alt": [
+   "weiße Taube"
+  ],
+  "decoys": [
+   "Pianistin",
+   "Nachbarin",
+   "Eule"
+  ]
+ },
+ {
+  "cat": "Schräge Geschichte",
+  "q": "Der Erfinder der Pringles-Dose wollte nach seinem Tod in _____ beerdigt werden.",
+  "a": "einer Pringles-Dose",
+  "alt": [
+   "Pringles-Dose",
+   "Pringlesdose",
+   "Chipsdose",
+   "Pringles Dose"
+  ],
+  "decoys": [
+   "einem Kühlschrank",
+   "einer Mikrowelle",
+   "einem Hotdog-Wagen"
+  ]
+ },
+ {
+  "cat": "Schräge Geschichte",
+  "q": "Wikinger trugen in Wirklichkeit keine _____.",
+  "a": "Hörnerhelme",
+  "alt": [
+   "Hörner",
+   "Helme mit Hörnern"
+  ],
+  "decoys": [
+   "Bärte",
+   "Zöpfe",
+   "Stiefel"
+  ]
+ },
+ {
+  "cat": "Schräge Geschichte",
+  "q": "Die Hawaii-Pizza wurde in _____ erfunden.",
+  "a": "Kanada",
+  "alt": [
+   "Kanada"
+  ],
+  "decoys": [
+   "Hawaii",
+   "Italien",
+   "Australien"
+  ]
+ },
+ {
+  "cat": "Land & Leute",
+  "q": "In der Schweiz darf man kein einzelnes _____ halten, weil es sich einsam fühlen würde.",
+  "a": "Meerschweinchen",
+  "alt": [
+   "Meerschweinchen"
+  ],
+  "decoys": [
+   "Hamster",
+   "Igel",
+   "Schildkröte"
+  ]
+ },
+ {
+  "cat": "Land & Leute",
+  "q": "Wer in Deutschland aus dem Gefängnis _____, macht sich allein dadurch nicht strafbar.",
+  "a": "ausbricht",
+  "alt": [
+   "flieht",
+   "abhaut",
+   "ausbüxt",
+   "türmt"
+  ],
+  "decoys": [
+   "singt",
+   "pfeift",
+   "schreit"
+  ]
+ },
+ {
+  "cat": "Land & Leute",
+  "q": "In Finnland gibt es eine Weltmeisterschaft im _____, bei der der Sieger das Gewicht der getragenen Frau in Bier bekommt.",
+  "a": "Frauentragen",
+  "alt": [
+   "Frau tragen",
+   "Frauen tragen"
+  ],
+  "decoys": [
+   "Bierstemmen",
+   "Wurstweitwurf",
+   "Kinderwagenrennen"
+  ]
+ },
+ {
+  "cat": "Sport & Spiele",
+  "q": "Beim Schach-Boxen wechseln sich Runden Schach und _____ ab.",
+  "a": "Boxen",
+  "alt": [
+   "Boxkampf",
+   "Boxrunden"
+  ],
+  "decoys": [
+   "Tanzen",
+   "Yoga",
+   "Sumo"
+  ]
+ },
+ {
+  "cat": "Sport & Spiele",
+  "q": "Beim Käserollen in Gloucestershire jagen Menschen einen Hügel hinunter einem rollenden _____ hinterher.",
+  "a": "Käse",
+  "alt": [
+   "Käselaib",
+   "Käserad",
+   "Cheese"
+  ],
+  "decoys": [
+   "Ball",
+   "Fass",
+   "Kürbis"
+  ]
+ },
+ {
+  "cat": "Film & Musik",
+  "q": "Die Sprecher von Micky Maus und Minnie Maus waren im echten Leben _____.",
+  "a": "verheiratet",
+  "alt": [
+   "ein Ehepaar",
+   "ein Paar",
+   "Mann und Frau"
+  ],
+  "decoys": [
+   "Geschwister",
+   "Nachbarn",
+   "verfeindet"
+  ]
+ },
+ {
+  "cat": "Film & Musik",
+  "q": "In Halberstadt wird gerade ein Orgelstück gespielt, das insgesamt _____ Jahre dauert.",
+  "a": "639",
+  "alt": [
+   "sechshundertneununddreißig"
+  ],
+  "decoys": [
+   "100",
+   "1000",
+   "24"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Die erste Webcam der Welt überwachte eine _____.",
+  "a": "Kaffeemaschine",
+  "alt": [
+   "Kaffeekanne",
+   "Kaffee",
+   "Kaffeemaschine"
+  ],
+  "decoys": [
+   "Toilette",
+   "Katze",
+   "Pizza"
+  ]
+ },
+ {
+  "cat": "Technik & Internet",
+  "q": "Die erste Online-Transaktion der Geschichte war angeblich ein Geschäft mit _____.",
+  "a": "Cannabis",
+  "alt": [
+   "Marihuana",
+   "Gras",
+   "Weed"
+  ],
+  "decoys": [
+   "Bier",
+   "Socken",
+   "Lotterielosen"
+  ]
+ },
+ {
+  "cat": "Essen & Trinken",
+  "q": "Bananen sind leicht _____ wegen ihres Kaliums.",
+  "a": "radioaktiv",
+  "alt": [
+   "strahlend"
+  ],
+  "decoys": [
+   "magnetisch",
+   "giftig",
+   "fluoreszierend"
+  ]
+ },
+ {
+  "cat": "Land & Leute",
+  "q": "Ein 'Backpfeifengesicht' ist ein Gesicht, das geradezu danach verlangt, _____ zu werden.",
+  "a": "geohrfeigt",
+  "alt": [
+   "geschlagen",
+   "eine Backpfeife zu bekommen",
+   "gehauen"
+  ],
+  "decoys": [
+   "geküsst",
+   "fotografiert",
+   "gewaschen"
+  ]
  }
 ]
