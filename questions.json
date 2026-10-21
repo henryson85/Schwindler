@@ -25759,5 +25759,4700 @@
    "flexor pollicis longus",
    "extensor digitorum"
   ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Hornhaut des Auges enthält keinerlei _____.",
+  "a": "Blutgefäße",
+  "alt": [
+   "Blutgefäß",
+   "Adern"
+  ],
+  "decoys": [
+   "Nerven",
+   "Zellen",
+   "Muskeln"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Botanisch gesehen ist die Banane eine _____.",
+  "a": "Beere",
+  "alt": [],
+  "decoys": [
+   "Nuss",
+   "Steinfrucht",
+   "Hülsenfrucht"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Erdbeere ist botanisch gesehen eine _____.",
+  "a": "Sammelnussfrucht",
+  "alt": [
+   "Nuss",
+   "Sammelfrucht"
+  ],
+  "decoys": [
+   "Beere",
+   "Steinfrucht",
+   "Hülsenfrucht"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Marianengraben reicht knapp _____ Kilometer unter den Meeresspiegel.",
+  "a": "11",
+  "alt": [
+   "elf"
+  ],
+  "decoys": [
+   "8",
+   "9",
+   "14"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Gänsehaut entsteht, weil sich winzige _____ an den Haarwurzeln zusammenziehen.",
+  "a": "Muskeln",
+  "alt": [
+   "Muskel",
+   "Haarmuskeln"
+  ],
+  "decoys": [
+   "Nerven",
+   "Drüsen",
+   "Blutgefäße"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Amerikaner Charles Osborne hatte rund _____ Jahre lang ununterbrochen Schluckauf.",
+  "a": "68",
+  "alt": [
+   "achtundsechzig"
+  ],
+  "decoys": [
+   "12",
+   "31",
+   "45"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Nach Safran gilt _____ als zweitteuerstes Gewürz der Welt.",
+  "a": "Vanille",
+  "alt": [],
+  "decoys": [
+   "Zimt",
+   "Kardamom",
+   "Muskat"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Caesar Salad wurde vom Koch Caesar Cardini in _____ erfunden.",
+  "a": "Mexiko",
+  "alt": [
+   "Tijuana"
+  ],
+  "decoys": [
+   "Rom",
+   "Kalifornien",
+   "Spanien"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der größte Mensch aller Zeiten, Robert Wadlow, war _____ Zentimeter groß.",
+  "a": "272",
+  "alt": [
+   "2,72 m",
+   "2,72"
+  ],
+  "decoys": [
+   "251",
+   "265",
+   "289"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Auf einem normalen Spielwürfel ergeben gegenüberliegende Seiten immer die Summe _____.",
+  "a": "7",
+  "alt": [
+   "sieben"
+  ],
+  "decoys": [
+   "6",
+   "8",
+   "9"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Magensäure besteht im Wesentlichen aus verdünnter _____.",
+  "a": "Salzsäure",
+  "alt": [
+   "Salz"
+  ],
+  "decoys": [
+   "Schwefelsäure",
+   "Essigsäure",
+   "Zitronensäure"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Nach einer Teilentfernung kann sich die _____ erstaunlich gut selbst wieder nachbilden.",
+  "a": "Leber",
+  "alt": [],
+  "decoys": [
+   "Niere",
+   "Milz",
+   "Lunge"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Französin Jeanne Calment, die älteste dokumentierte Person, wurde _____ Jahre alt.",
+  "a": "122",
+  "alt": [],
+  "decoys": [
+   "117",
+   "125",
+   "131"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die meisten Inseln aller Länder besitzt _____.",
+  "a": "Schweden",
+  "alt": [],
+  "decoys": [
+   "Kanada",
+   "Indonesien",
+   "Norwegen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die kleinen Erhebungen auf den Tasten F und J zeigen, wo die _____ liegen sollen.",
+  "a": "Zeigefinger",
+  "alt": [],
+  "decoys": [
+   "Daumen",
+   "Mittelfinger",
+   "kleinen Finger"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das erste Papiertaschentuch der Welt, „Tempo“, kam 1929 aus _____.",
+  "a": "Nürnberg",
+  "alt": [],
+  "decoys": [
+   "Hamburg",
+   "München",
+   "Stuttgart"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Eine Gurke besteht zu rund _____ Prozent aus Wasser.",
+  "a": "95",
+  "alt": [
+   "96",
+   "97"
+  ],
+  "decoys": [
+   "70",
+   "80",
+   "85"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Mandeln sind botanisch keine Nüsse, sondern Kerne einer _____.",
+  "a": "Steinfrucht",
+  "alt": [
+   "Steinobst"
+  ],
+  "decoys": [
+   "Beere",
+   "Hülsenfrucht",
+   "Kapselfrucht"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Löcher im Emmentaler entstehen durch Gasblasen, die von _____ erzeugt werden.",
+  "a": "Bakterien",
+  "alt": [
+   "Bakterium"
+  ],
+  "decoys": [
+   "Hefen",
+   "Schimmelpilzen",
+   "Enzymen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Zimt wird aus der getrockneten _____ des Zimtbaums gewonnen.",
+  "a": "Rinde",
+  "alt": [
+   "Baumrinde"
+  ],
+  "decoys": [
+   "Wurzel",
+   "Blüte",
+   "Frucht"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Safran besteht aus den getrockneten _____ einer Krokusart.",
+  "a": "Narben",
+  "alt": [
+   "Blütennarben",
+   "Stempelfäden"
+  ],
+  "decoys": [
+   "Blütenblättern",
+   "Wurzeln",
+   "Staubblättern"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Schüler Randy Gardner blieb 1964 rund _____ Tage am Stück wach.",
+  "a": "11",
+  "alt": [
+   "elf"
+  ],
+  "decoys": [
+   "5",
+   "7",
+   "14"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Land mit den meisten gesprochenen Sprachen ist _____.",
+  "a": "Papua-Neuguinea",
+  "alt": [
+   "Papua Neuguinea"
+  ],
+  "decoys": [
+   "Indien",
+   "Nigeria",
+   "Indonesien"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die höchste je zuverlässig gemessene Lufttemperatur wurde 1913 im _____ gemessen.",
+  "a": "Death Valley",
+  "alt": [
+   "Tal des Todes"
+  ],
+  "decoys": [
+   "Sahara",
+   "Gobi",
+   "Outback"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Etwa _____ Prozent aller Menschen sind Linkshänder.",
+  "a": "10",
+  "alt": [
+   "zehn"
+  ],
+  "decoys": [
+   "3",
+   "25",
+   "40"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Babys kommen mit Kniescheiben aus _____ zur Welt, die erst später verknöchern.",
+  "a": "Knorpel",
+  "alt": [],
+  "decoys": [
+   "Fett",
+   "Sehnen",
+   "Muskeln"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Jede menschliche Hand enthält _____ Knochen.",
+  "a": "27",
+  "alt": [
+   "siebenundzwanzig"
+  ],
+  "decoys": [
+   "14",
+   "19",
+   "33"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Jeder menschliche Fuß enthält _____ Knochen.",
+  "a": "26",
+  "alt": [
+   "sechsundzwanzig"
+  ],
+  "decoys": [
+   "12",
+   "33",
+   "40"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Cashewnuss wächst außen an einem birnenförmigen _____.",
+  "a": "Cashewapfel",
+  "alt": [
+   "Apfel"
+  ],
+  "decoys": [
+   "Kürbis",
+   "Kolben",
+   "Zapfen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Haftnotizen Post-it entstanden aus einem Klebstoff, der eigentlich zu _____ geraten war.",
+  "a": "schwach",
+  "alt": [
+   "zu schwach"
+  ],
+  "decoys": [
+   "stark",
+   "flüssig",
+   "teuer"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Haie gibt es schon länger auf der Erde als _____.",
+  "a": "Bäume",
+  "alt": [
+   "Baum"
+  ],
+  "decoys": [
+   "Dinosaurier",
+   "Blumen",
+   "Säugetiere"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Bananenbaum ist botanisch gar kein Baum, sondern eine riesige _____.",
+  "a": "Staude",
+  "alt": [
+   "Kraut",
+   "Pflanze"
+  ],
+  "decoys": [
+   "Liane",
+   "Palme",
+   "Strauchart"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Dass heißes Wasser manchmal schneller gefriert als kaltes, nennt man den _____-Effekt.",
+  "a": "Mpemba",
+  "alt": [
+   "Mpemba-Effekt"
+  ],
+  "decoys": [
+   "Leidenfrost",
+   "Doppler",
+   "Coandă"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Eine Kakerlake kann ohne Kopf noch etwa eine _____ weiterleben.",
+  "a": "Woche",
+  "alt": [
+   "7 Tage",
+   "sieben Tage"
+  ],
+  "decoys": [
+   "Stunde",
+   "Minute",
+   "Jahr"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Jeder Delfin hat einen eigenen Signaturpfiff, der wie ein _____ funktioniert.",
+  "a": "Name",
+  "alt": [
+   "Namen"
+  ],
+  "decoys": [
+   "Ausweis",
+   "Reviergesang",
+   "Warnruf"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der lange Stoßzahn des Narwals ist in Wahrheit ein verlängerter _____.",
+  "a": "Eckzahn",
+  "alt": [
+   "Zahn",
+   "Stoßzahn"
+  ],
+  "decoys": [
+   "Rippenknochen",
+   "Nasenknorpel",
+   "Hornfortsatz"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Venusfliegenfalle schnappt erst zu, wenn ein Insekt kurz hintereinander zweimal ihre _____ berührt.",
+  "a": "Fühlhaare",
+  "alt": [
+   "Härchen",
+   "Haare",
+   "Borsten",
+   "Sinneshaare"
+  ],
+  "decoys": [
+   "Blüten",
+   "Wurzeln",
+   "Stiele"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Im 17. Jahrhundert kosteten in den Niederlanden einzelne Zwiebeln der _____ so viel wie ein Haus.",
+  "a": "Tulpe",
+  "alt": [
+   "Tulpen"
+  ],
+  "decoys": [
+   "Rose",
+   "Hyazinthe",
+   "Narzisse"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Edelgas Helium ist nach dem griechischen Sonnengott _____ benannt.",
+  "a": "Helios",
+  "alt": [
+   "Helius"
+  ],
+  "decoys": [
+   "Zeus",
+   "Hermes",
+   "Ares"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Edelgas Argon trägt einen griechischen Namen, der übersetzt 'der _____' bedeutet.",
+  "a": "Träge",
+  "alt": [
+   "Faule",
+   "Untätige",
+   "Trägel"
+  ],
+  "decoys": [
+   "Starke",
+   "Leuchtende",
+   "Stille"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Wasser hat bei etwa _____ Grad Celsius seine größte Dichte.",
+  "a": "vier",
+  "alt": [
+   "4"
+  ],
+  "decoys": [
+   "null",
+   "zehn",
+   "zwei"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Ein Lichtjahr misst eine Strecke, keine _____.",
+  "a": "Zeit",
+  "alt": [
+   "Zeitspanne"
+  ],
+  "decoys": [
+   "Geschwindigkeit",
+   "Masse",
+   "Helligkeit"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Ringe des Saturn bestehen zum größten Teil aus Brocken von _____.",
+  "a": "Eis",
+  "alt": [
+   "Wassereis",
+   "Eisbrocken"
+  ],
+  "decoys": [
+   "Gold",
+   "Staub",
+   "Basalt"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Planet Uranus rollt auf seiner Bahn praktisch auf der _____ um die Sonne.",
+  "a": "Seite",
+  "alt": [
+   "Kante"
+  ],
+  "decoys": [
+   "Spitze",
+   "Rückseite",
+   "Innenseite"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Donner entsteht, weil sich die vom Blitz erhitzte Luft schlagartig _____.",
+  "a": "ausdehnt",
+  "alt": [
+   "dehnt sich aus",
+   "expandiert"
+  ],
+  "decoys": [
+   "abkühlt",
+   "zusammenzieht",
+   "verflüssigt"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Schnecken haben tausende winzige Zähne auf ihrer _____.",
+  "a": "Zunge",
+  "alt": [
+   "Raspelzunge",
+   "Radula"
+  ],
+  "decoys": [
+   "Fühlern",
+   "Schale",
+   "Fußsohle"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Seegurken atmen unter anderem durch ihren _____.",
+  "a": "After",
+  "alt": [
+   "Hintern",
+   "Enddarm",
+   "Anus"
+  ],
+  "decoys": [
+   "Mund",
+   "Fühler",
+   "Rücken"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Bärtierchen überlebten 2007 einen Ausflug ungeschützt im _____.",
+  "a": "Weltall",
+  "alt": [
+   "Weltraum",
+   "All"
+  ],
+  "decoys": [
+   "Vulkan",
+   "Marianengraben",
+   "Reaktor"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Honigbienen verraten ihren Schwestern durch einen _____, wo es Nektar gibt.",
+  "a": "Tanz",
+  "alt": [
+   "Schwänzeltanz"
+  ],
+  "decoys": [
+   "Gesang",
+   "Brummton",
+   "Rauchzeichen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Trockeneis ist festes _____.",
+  "a": "Kohlendioxid",
+  "alt": [
+   "CO2",
+   "Kohlenstoffdioxid"
+  ],
+  "decoys": [
+   "Stickstoff",
+   "Sauerstoff",
+   "Wasserdampf"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Seit 2006 gilt Pluto offiziell als _____.",
+  "a": "Zwergplanet",
+  "alt": [
+   "Zwergplaneten"
+  ],
+  "decoys": [
+   "Asteroid",
+   "Komet",
+   "Mond"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Auf der Nordhalbkugel ist die Erde der Sonne im _____ am nächsten.",
+  "a": "Winter",
+  "alt": [
+   "Januar"
+  ],
+  "decoys": [
+   "Sommer",
+   "Frühling",
+   "Herbst"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "In der Schwerelosigkeit ist eine Kerzenflamme nicht spitz, sondern _____.",
+  "a": "kugelförmig",
+  "alt": [
+   "rund",
+   "Kugel",
+   "kugelrund"
+  ],
+  "decoys": [
+   "flach",
+   "eckig",
+   "unsichtbar"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Kamele haben pro Auge _____ Lider.",
+  "a": "drei",
+  "alt": [
+   "3"
+  ],
+  "decoys": [
+   "vier",
+   "fünf",
+   "sechs"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Kartoffel gehört zu den Nachtschattengewächsen, ebenso wie die Tomate und die _____.",
+  "a": "Tollkirsche",
+  "alt": [
+   "Aubergine"
+  ],
+  "decoys": [
+   "Rose",
+   "Birke",
+   "Kürbis"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Stacheln eines Kaktus sind umgewandelte _____.",
+  "a": "Blätter",
+  "alt": [
+   "Blatt"
+  ],
+  "decoys": [
+   "Wurzeln",
+   "Äste",
+   "Rindenstücke"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Einer der größten bekannten Organismen der Erde ist ein unterirdischer _____ in Oregon.",
+  "a": "Pilz",
+  "alt": [
+   "Hallimasch"
+  ],
+  "decoys": [
+   "Baum",
+   "Schwamm",
+   "Algenteppich"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Pilze sind enger mit den Tieren verwandt als mit den _____.",
+  "a": "Pflanzen",
+  "alt": [
+   "Gewächsen"
+  ],
+  "decoys": [
+   "Bakterien",
+   "Viren",
+   "Flechten"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Flusspferde sondern eine rötliche Flüssigkeit ab, die wie natürlicher _____ wirkt.",
+  "a": "Sonnenschutz",
+  "alt": [
+   "Sonnencreme"
+  ],
+  "decoys": [
+   "Parfüm",
+   "Schmerzmittel",
+   "Klebstoff"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "In Großbritannien folgte 1752 auf den 2. September direkt der _____. September.",
+  "a": "14",
+  "alt": [
+   "14."
+  ],
+  "decoys": [
+   "9.",
+   "12.",
+   "20."
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der kürzeste Krieg der Geschichte, der Anglo-Sansibar-Krieg von 1896, dauerte nur etwa 40 _____.",
+  "a": "Minuten",
+  "alt": [
+   "Min"
+  ],
+  "decoys": [
+   "Sekunden",
+   "Stunden",
+   "Tage"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Bhutan misst den Fortschritt des Landes offiziell im Bruttonational_____.",
+  "a": "glück",
+  "alt": [
+   "Glück",
+   "Bruttonationalglück"
+  ],
+  "decoys": [
+   "stolz",
+   "reichtum",
+   "frieden"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Wort 'Tomate' stammt aus der Sprache der _____.",
+  "a": "Azteken",
+  "alt": [
+   "Nahuatl",
+   "Aztekisch"
+  ],
+  "decoys": [
+   "Inka",
+   "Maya",
+   "Tupi"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Wort 'Sabotage' leitet sich vom französischen 'sabot' ab, einem _____ aus Holz.",
+  "a": "Schuh",
+  "alt": [
+   "Holzschuh",
+   "Clog"
+  ],
+  "decoys": [
+   "Hammer",
+   "Löffel",
+   "Fass"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Wort 'Pandemie' bedeutet wörtlich ungefähr 'das ganze _____'.",
+  "a": "Volk",
+  "alt": [
+   "Menschen"
+  ],
+  "decoys": [
+   "Land",
+   "Jahr",
+   "Leben"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Faxgerät wurde schon 1843 patentiert, also lange vor dem _____.",
+  "a": "Telefon",
+  "alt": [
+   "Fernsprecher"
+  ],
+  "decoys": [
+   "Dampfschiff",
+   "Fahrrad",
+   "Streichholz"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das World Wide Web wurde 1989 von Tim Berners-Lee am _____ erfunden.",
+  "a": "CERN",
+  "alt": [
+   "Cern"
+  ],
+  "decoys": [
+   "MIT",
+   "Fraunhofer-Institut",
+   "Stanford"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Architekturprofessor Ernő Rubik erfand den Zauberwürfel 1974 in _____.",
+  "a": "Ungarn",
+  "alt": [
+   "Budapest"
+  ],
+  "decoys": [
+   "Polen",
+   "Rumänien",
+   "Tschechien"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Computerspiel Tetris wurde 1984 in der _____ entwickelt.",
+  "a": "Sowjetunion",
+  "alt": [
+   "UdSSR",
+   "Russland"
+  ],
+  "decoys": [
+   "DDR",
+   "USA",
+   "Schweiz"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Menschen, die berufsmäßig Zahlen berechneten, hießen schon vor den Maschinen _____.",
+  "a": "Computer",
+  "alt": [
+   "Computers"
+  ],
+  "decoys": [
+   "Rechenknechte",
+   "Abakusse",
+   "Kalkulatoren"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die krumme Marathonstrecke von 42,195 Kilometern geht auf die Olympischen Spiele 1908 in _____ zurück.",
+  "a": "London",
+  "alt": [],
+  "decoys": [
+   "Paris",
+   "Athen",
+   "Stockholm"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Zur ersten Fußball-WM 1930 in Uruguay reisten nur _____ Mannschaften.",
+  "a": "13",
+  "alt": [
+   "dreizehn"
+  ],
+  "decoys": [
+   "8",
+   "16",
+   "24"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "In Wimbledon müssen die Spieler fast vollständig in _____ spielen.",
+  "a": "Weiß",
+  "alt": [
+   "weiss",
+   "Weiss"
+  ],
+  "decoys": [
+   "Grün",
+   "Schwarz",
+   "Creme"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Wort 'Alphabet' besteht aus den ersten beiden griechischen Buchstaben Alpha und _____.",
+  "a": "Beta",
+  "alt": [],
+  "decoys": [
+   "Gamma",
+   "Delta",
+   "Omega"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der berühmte 'Wilhelmsschrei' ist in 'Star Wars' und in '_____ Jones' zu hören.",
+  "a": "Indiana",
+  "alt": [],
+  "decoys": [
+   "Bridget",
+   "Davy",
+   "Tom"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Auf dem Cover von 'Abbey Road' geht Paul McCartney als Einziger ohne _____ über den Zebrastreifen.",
+  "a": "Schuhe",
+  "alt": [
+   "Schuhwerk"
+  ],
+  "decoys": [
+   "Jackett",
+   "Krawatte",
+   "Brille"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "In der Duschszene von 'Psycho' diente als Blut _____.",
+  "a": "Schokosirup",
+  "alt": [
+   "Schokoladensirup",
+   "Schokolade"
+  ],
+  "decoys": [
+   "Ketchup",
+   "Rote-Bete-Saft",
+   "Himbeersirup"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das bayerische Reinheitsgebot für Bier wurde 1516 in _____ erlassen.",
+  "a": "Ingolstadt",
+  "alt": [],
+  "decoys": [
+   "München",
+   "Nürnberg",
+   "Regensburg"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "In Thailand sollte man nie auf einen heruntergefallenen _____ treten, weil darauf der König abgebildet ist.",
+  "a": "Geldschein",
+  "alt": [
+   "Schein",
+   "Banknote"
+  ],
+  "decoys": [
+   "Briefmarke",
+   "Zeitungsbild",
+   "Pass"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Guinness-Buch der Rekorde wurde erfunden, um Streitigkeiten in _____ zu schlichten.",
+  "a": "Pubs",
+  "alt": [
+   "Kneipen",
+   "Gaststätten",
+   "Wirtshäusern"
+  ],
+  "decoys": [
+   "Casinos",
+   "Schulen",
+   "Fußballstadien"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Schiefe Turm von Pisa begann sich schon während des _____ zu neigen.",
+  "a": "Baus",
+  "alt": [
+   "Bauens",
+   "Turmbaus"
+  ],
+  "decoys": [
+   "Krieges",
+   "Richtfests",
+   "Winters"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Big Ben ist keine Uhr, sondern die große _____ im Turm.",
+  "a": "Glocke",
+  "alt": [
+   "Turmglocke"
+  ],
+  "decoys": [
+   "Orgel",
+   "Fahne",
+   "Statue"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Länderkürzel CH der Schweiz steht für 'Confoederatio _____'.",
+  "a": "Helvetica",
+  "alt": [],
+  "decoys": [
+   "Alpina",
+   "Germanica",
+   "Montana"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das @-Zeichen wurde 1971 erstmals in einer _____-Adresse benutzt.",
+  "a": "E-Mail",
+  "alt": [
+   "Email",
+   "Mail"
+  ],
+  "decoys": [
+   "Fax",
+   "Telegramm",
+   "Web"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die finnische Sprache hat kein grammatisches _____, es gibt nur ein Wort für 'er' und 'sie'.",
+  "a": "Geschlecht",
+  "alt": [
+   "Genus"
+  ],
+  "decoys": [
+   "Plural",
+   "Präsens",
+   "Alphabet"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Im Spanischen beginnt eine Frage mit einem auf dem Kopf stehenden _____.",
+  "a": "Fragezeichen",
+  "alt": [
+   "?"
+  ],
+  "decoys": [
+   "Komma",
+   "Punkt",
+   "Doppelpunkt"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Stadt Istanbul liegt auf den Kontinenten Europa und _____.",
+  "a": "Asien",
+  "alt": [],
+  "decoys": [
+   "Afrika",
+   "Ozeanien",
+   "Amerika"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Berliner Mauer hieß in der DDR offiziell 'antifaschistischer _____'.",
+  "a": "Schutzwall",
+  "alt": [
+   "Schutzwall"
+  ],
+  "decoys": [
+   "Schutzzaun",
+   "Friedenswall",
+   "Sicherheitsgürtel"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die ersten Passagiere eines Heißluftballons 1783 waren ein Schaf, ein Hahn und eine _____.",
+  "a": "Ente",
+  "alt": [],
+  "decoys": [
+   "Ziege",
+   "Katze",
+   "Taube"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Wort „Googol“ für eine 1 mit hundert Nullen erfand 1920 der neunjährige _____ eines Mathematikers.",
+  "a": "Neffe",
+  "alt": [
+   "Neffen"
+  ],
+  "decoys": [
+   "Sohn",
+   "Enkel",
+   "Schüler"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der erste motorisierte Staubsauger von 1901 war so riesig, dass er von _____ durch die Straßen gezogen wurde.",
+  "a": "Pferden",
+  "alt": [
+   "Pferd",
+   "Pferde"
+  ],
+  "decoys": [
+   "Ochsen",
+   "Dampfloks",
+   "Eseln"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Auf der Insel Yap dienten jahrhundertelang riesige Scheiben aus _____ als Zahlungsmittel.",
+  "a": "Stein",
+  "alt": [
+   "Kalkstein",
+   "Steinscheiben"
+  ],
+  "decoys": [
+   "Holz",
+   "Muscheln",
+   "Kupfer"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Zahlen von 1 bis 20 auf einer Dartscheibe ergeben zusammen _____.",
+  "a": "210",
+  "alt": [],
+  "decoys": [
+   "190",
+   "200",
+   "240"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Zahl 1729 trägt den Spitznamen „_____-Zahl“, weil der Mathematiker Hardy sie auf dem Nummernschild seines Fahrzeugs sah.",
+  "a": "Taxi",
+  "alt": [
+   "Taxizahl"
+  ],
+  "decoys": [
+   "Bus",
+   "Kutschen",
+   "Zug"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die ersten Züge der Londoner U-Bahn wurden 1863 von _____ angetrieben.",
+  "a": "Dampflokomotiven",
+  "alt": [
+   "Dampf",
+   "Dampfloks",
+   "Dampflok"
+  ],
+  "decoys": [
+   "Pferden",
+   "Elektromotoren",
+   "Drahtseilen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Am Pariser Triumphbogen münden _____ Straßen sternförmig in einen Kreisverkehr.",
+  "a": "zwölf",
+  "alt": [
+   "12"
+  ],
+  "decoys": [
+   "sechs",
+   "acht",
+   "zwanzig"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Pentagon hat rund 280 _____, doppelt so viele wie nötig, weil beim Bau noch Rassentrennung galt.",
+  "a": "Toiletten",
+  "alt": [
+   "WCs",
+   "Klos"
+  ],
+  "decoys": [
+   "Treppen",
+   "Aufzüge",
+   "Büros"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Weiße Haus hat 132 Zimmer, darunter 35 _____.",
+  "a": "Badezimmer",
+  "alt": [
+   "Bäder",
+   "Toiletten"
+  ],
+  "decoys": [
+   "Küchen",
+   "Schlafzimmer",
+   "Kamine"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Im kalifornischen Winchester Mystery House enden manche Treppen an der _____.",
+  "a": "Decke",
+  "alt": [
+   "Zimmerdecke"
+  ],
+  "decoys": [
+   "Wand",
+   "Dachluke",
+   "Tür"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "In kubanischen Zigarrenfabriken lasen bezahlte _____ den Arbeitern Zeitungen und Romane vor.",
+  "a": "Vorleser",
+  "alt": [
+   "Lektoren",
+   "Vorleserinnen"
+  ],
+  "decoys": [
+   "Sänger",
+   "Prediger",
+   "Dichter"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Elizabeth Magie schuf den Vorläufer von Monopoly, um die Ungerechtigkeit von _____ zu zeigen.",
+  "a": "Grundbesitz",
+  "alt": [
+   "Landbesitz",
+   "Bodenbesitz",
+   "Landeigentum"
+  ],
+  "decoys": [
+   "Erbschaften",
+   "Zinsen",
+   "Steuerhinterziehung"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Im Ersten Weltkrieg wurden zehntausende Exemplare von „Mensch ärgere dich nicht“ an _____ geschickt.",
+  "a": "Lazarette",
+  "alt": [
+   "Lazarett",
+   "Soldaten",
+   "Verwundete"
+  ],
+  "decoys": [
+   "Schulen",
+   "Gefängnisse",
+   "Waisenhäuser"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Dosenöffner wurde etwa _____ Jahre nach der Konservendose erfunden.",
+  "a": "48",
+  "alt": [
+   "achtundvierzig"
+  ],
+  "decoys": [
+   "5",
+   "15",
+   "100"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Mary Anderson kam 1903 auf die Idee für den Scheibenwischer bei einer Fahrt in einer New Yorker _____.",
+  "a": "Straßenbahn",
+  "alt": [
+   "Tram"
+  ],
+  "decoys": [
+   "Kutsche",
+   "U-Bahn",
+   "Fähre"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Ein US-Dollarschein besteht zu 75 Prozent aus Baumwolle und zu 25 Prozent aus _____.",
+  "a": "Leinen",
+  "alt": [],
+  "decoys": [
+   "Seide",
+   "Hanf",
+   "Kunststoff"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die größte Münze der Welt, die schwedische Kupferplatte von 1644, wog knapp _____ Kilogramm.",
+  "a": "20",
+  "alt": [
+   "zwanzig",
+   "19,7"
+  ],
+  "decoys": [
+   "2",
+   "5",
+   "100"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Seeotter halten sich beim Schlafen an den _____, damit sie nicht auseinandertreiben.",
+  "a": "Pfoten",
+  "alt": [
+   "Händen",
+   "Händchen"
+  ],
+  "decoys": [
+   "Schwänzen",
+   "Schnurrhaaren",
+   "Hinterbeinen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Erwachsene Eintagsfliegen haben keine funktionsfähigen _____ und fressen deshalb nichts mehr.",
+  "a": "Mundwerkzeuge",
+  "alt": [
+   "Mundwerkzeuge",
+   "Münder",
+   "Mund"
+  ],
+  "decoys": [
+   "Flügel",
+   "Augen",
+   "Fühler"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Knallen von Pistolenkrebsen störte im Zweiten Weltkrieg die Sonarortung von _____.",
+  "a": "U-Booten",
+  "alt": [
+   "U-Boote",
+   "Unterseebooten"
+  ],
+  "decoys": [
+   "Zerstörern",
+   "Minensuchern",
+   "Wasserflugzeugen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Mondfisch kann bis zu _____ Millionen Eier auf einmal legen.",
+  "a": "300",
+  "alt": [
+   "dreihundert"
+  ],
+  "decoys": [
+   "3",
+   "30",
+   "3000"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Wollemi-Kiefer galt als ausgestorben, bis 1994 ein Parkranger sie in der Nähe von _____ entdeckte.",
+  "a": "Sydney",
+  "alt": [],
+  "decoys": [
+   "Perth",
+   "Melbourne",
+   "Darwin",
+   "Adelaide"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Neptun braucht für einen einzigen Umlauf um die Sonne etwa _____ Jahre.",
+  "a": "165",
+  "alt": [
+   "hundertfünfundsechzig"
+  ],
+  "decoys": [
+   "84",
+   "248",
+   "29"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "„Kaputt“ stammt vom französischen Kartenspiel-Ausdruck „capot“, was bedeutet, keinen _____ gemacht zu haben.",
+  "a": "Stich",
+  "alt": [
+   "Stich gemacht"
+  ],
+  "decoys": [
+   "Punkt",
+   "Trumpf",
+   "Zug"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Pädagoge Friedrich Fröbel eröffnete 1840 den ersten Kindergarten in Bad _____.",
+  "a": "Blankenburg",
+  "alt": [],
+  "decoys": [
+   "Berka",
+   "Salzungen",
+   "Kissingen",
+   "Harzburg"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die nördlichste Hauptstadt eines souveränen Staates ist _____.",
+  "a": "Reykjavik",
+  "alt": [
+   "Reykjavík"
+  ],
+  "decoys": [
+   "Oslo",
+   "Helsinki",
+   "Tórshavn"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Ein Golfball hat meist zwischen 300 und 500 _____.",
+  "a": "Dellen",
+  "alt": [
+   "Vertiefungen"
+  ],
+  "decoys": [
+   "Rillen",
+   "Noppen",
+   "Poren"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die allerersten Basketballkörbe waren Körbe für _____.",
+  "a": "Pfirsiche",
+  "alt": [
+   "Pfirsichkörbe"
+  ],
+  "decoys": [
+   "Brot",
+   "Äpfel",
+   "Kartoffeln"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Paul McCartney nannte „Yesterday“ anfangs „Scrambled _____“.",
+  "a": "Eggs",
+  "alt": [
+   "Rühreier",
+   "Egg"
+  ],
+  "decoys": [
+   "Mushrooms",
+   "Bacon",
+   "Beans"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Koalas besitzen _____, die denen von Menschen zum Verwechseln ähneln.",
+  "a": "Fingerabdrücke",
+  "alt": [
+   "Fingerabdruck"
+  ],
+  "decoys": [
+   "Zahnabdrücke",
+   "Stimmbänder",
+   "Blutgruppen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Algen können Schnee rosa färben, und er riecht dann nach _____.",
+  "a": "Wassermelone",
+  "alt": [
+   "Melone"
+  ],
+  "decoys": [
+   "Zimt",
+   "Vanille",
+   "Erdbeere"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Geld aus dem römischen Trevi-Brunnen geht an die katholische Hilfsorganisation _____.",
+  "a": "Caritas",
+  "alt": [],
+  "decoys": [
+   "Misereor",
+   "Malteser",
+   "Diakonie"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Fingernägel wachsen im Schnitt rund _____ Millimeter pro Monat.",
+  "a": "3",
+  "alt": [
+   "drei"
+  ],
+  "decoys": [
+   "1",
+   "8",
+   "12"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "An der Hand wächst der Nagel des _____ am schnellsten.",
+  "a": "Mittelfingers",
+  "alt": [
+   "Mittelfinger"
+  ],
+  "decoys": [
+   "Daumens",
+   "Zeigefingers",
+   "kleinen Fingers"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der medizinische Fachbegriff für Ohrenschmalz lautet _____.",
+  "a": "Cerumen",
+  "alt": [
+   "Zerumen"
+  ],
+  "decoys": [
+   "Sebum",
+   "Lanolin",
+   "Keratin"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das allererste Stethoskop von René Laennec (1816) bestand aus zusammengerolltem _____.",
+  "a": "Papier",
+  "alt": [
+   "Papierrolle",
+   "Heft Papier"
+  ],
+  "decoys": [
+   "Leder",
+   "Schilfrohr",
+   "Blech"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Ausgangsstoff für den Wirkstoff in Aspirin, Salicin, wurde ursprünglich aus _____ gewonnen.",
+  "a": "Weidenrinde",
+  "alt": [
+   "Weide",
+   "Weidenrinden"
+  ],
+  "decoys": [
+   "Eichenrinde",
+   "Birkenblättern",
+   "Lindenblüten"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Ignaz Semmelweis ließ Ärzte sich 1847 die Hände mit _____ waschen.",
+  "a": "Chlorkalk",
+  "alt": [
+   "Chlorkalklösung"
+  ],
+  "decoys": [
+   "Essigessenz",
+   "Salzsäure",
+   "Kernseife"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Rhesusfaktor im Blut wurde erstmals mit Hilfe von _____ erforscht.",
+  "a": "Rhesusaffen",
+  "alt": [
+   "Rhesusaffe",
+   "Makaken"
+  ],
+  "decoys": [
+   "Schimpansen",
+   "Pavianen",
+   "Meerschweinchen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Tränenflüssigkeit enthält das keimtötende Enzym _____.",
+  "a": "Lysozym",
+  "alt": [],
+  "decoys": [
+   "Pepsin",
+   "Amylase",
+   "Lipase"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Wer Brot lange kaut, schmeckt Süße, weil Speichel-Amylase Stärke zu _____ spaltet.",
+  "a": "Maltose",
+  "alt": [
+   "Malzzucker"
+  ],
+  "decoys": [
+   "Fruchtzucker",
+   "Milchzucker",
+   "Rohrzucker"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Ein Kopfhaar wächst ungefähr _____ Zentimeter pro Monat.",
+  "a": "1",
+  "alt": [
+   "ein",
+   "einen"
+  ],
+  "decoys": [
+   "3",
+   "5",
+   "8"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Zahnschmelz besteht fast vollständig aus dem Mineral _____.",
+  "a": "Hydroxylapatit",
+  "alt": [
+   "Apatit"
+  ],
+  "decoys": [
+   "Kalzit",
+   "Quarz",
+   "Gips"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Ein Kind hat im Normalfall _____ Milchzähne.",
+  "a": "20",
+  "alt": [
+   "zwanzig"
+  ],
+  "decoys": [
+   "16",
+   "24",
+   "28"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Wirkstoff im Speichel von Blutegeln, der die Blutgerinnung hemmt, heißt _____.",
+  "a": "Hirudin",
+  "alt": [],
+  "decoys": [
+   "Heparin",
+   "Fibrin",
+   "Thrombin"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Nieren eines Erwachsenen bilden pro Tag rund _____ Liter Primärharn.",
+  "a": "180",
+  "alt": [
+   "hundertachtzig"
+  ],
+  "decoys": [
+   "20",
+   "60",
+   "500"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Gleichgewichtsorgan in jedem Innenohr besitzt _____ Bogengänge.",
+  "a": "3",
+  "alt": [
+   "drei"
+  ],
+  "decoys": [
+   "2",
+   "4",
+   "5"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Dass Rote Bete den Urin rötlich färben kann, nennt man _____.",
+  "a": "Beeturie",
+  "alt": [],
+  "decoys": [
+   "Hämaturie",
+   "Zyanose",
+   "Urochromie"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Wer sehr viel Karotten isst, kann orangefarbene Haut bekommen, was _____ heißt.",
+  "a": "Karotinämie",
+  "alt": [
+   "Carotinämie",
+   "Karotinodermie",
+   "Carotinodermie"
+  ],
+  "decoys": [
+   "Erythrodermie",
+   "Xanthelasma",
+   "Zyanose"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Bananen strahlen minimal, weil sie das Kaliumisotop _____ enthalten.",
+  "a": "Kalium-40",
+  "alt": [
+   "K-40",
+   "Kalium 40"
+  ],
+  "decoys": [
+   "Cäsium-137",
+   "Jod-131",
+   "Radium-226"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Menschen ohne Augenlinse (Aphakie) können teils _____ Licht wahrnehmen.",
+  "a": "ultraviolettes",
+  "alt": [
+   "Ultraviolett",
+   "UV",
+   "UV-Licht"
+  ],
+  "decoys": [
+   "infrarotes",
+   "polarisiertes",
+   "Röntgen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Dass abwechselnd das eine, dann das andere Nasenloch stärker durchlässig ist, nennt die Medizin den _____.",
+  "a": "Nasenzyklus",
+  "alt": [],
+  "decoys": [
+   "Nasenreflex",
+   "Nasenpendel",
+   "Nasenrhythmus"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Schnabel der Pestarzt-Maske war mit _____ gefüllt.",
+  "a": "Kräutern",
+  "alt": [
+   "duftenden Kräutern",
+   "Kräuter"
+  ],
+  "decoys": [
+   "Holzkohle",
+   "Sand",
+   "Wachs"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die erste Herztransplantation am Menschen gelang 1967 in _____.",
+  "a": "Kapstadt",
+  "alt": [],
+  "decoys": [
+   "Houston",
+   "Pretoria",
+   "Lissabon"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die ersten Borsten-Zahnbürsten im China des 15. Jahrhunderts trugen Borsten vom _____.",
+  "a": "Schwein",
+  "alt": [
+   "Wildschwein",
+   "Schweineborsten"
+  ],
+  "decoys": [
+   "Pferd",
+   "Dachs",
+   "Ziege"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Druckausgleich im Flugzeug, bei dem es im Ohr knackt, läuft über die _____.",
+  "a": "Ohrtrompete",
+  "alt": [
+   "Eustachische Röhre",
+   "Eustachi-Röhre",
+   "Tuba auditiva"
+  ],
+  "decoys": [
+   "Hörschnecke",
+   "Gehörgang",
+   "Ohrmuschel"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Schlafhormon Melatonin wird hauptsächlich in der _____ gebildet.",
+  "a": "Zirbeldrüse",
+  "alt": [
+   "Epiphyse"
+  ],
+  "decoys": [
+   "Schilddrüse",
+   "Hirnanhangsdrüse",
+   "Nebenniere"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das mittelalterliche „Antoniusfeuer“ wurde meist durch vergiftetes Getreide mit _____ ausgelöst.",
+  "a": "Mutterkorn",
+  "alt": [
+   "Mutterkornpilz"
+  ],
+  "decoys": [
+   "Fliegenpilz",
+   "Brandpilz",
+   "Hefepilz"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Schärfe-Rezeptor TRPV1 reagiert auch auf Hitze ab etwa _____ Grad Celsius.",
+  "a": "43",
+  "alt": [
+   "dreiundvierzig"
+  ],
+  "decoys": [
+   "30",
+   "55",
+   "70"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Franzose Jean-Baptiste Denys übertrug 1667 erstmals Blut eines _____ auf einen Menschen.",
+  "a": "Lamms",
+  "alt": [
+   "Lamm",
+   "Schafs",
+   "Schaf"
+  ],
+  "decoys": [
+   "Schweins",
+   "Pferds",
+   "Affen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "William Halsted ließ 1890 Gummihandschuhe anfertigen, weil die Hände seiner OP-Schwester unter _____ litten.",
+  "a": "Desinfektionsmitteln",
+  "alt": [
+   "Desinfektionsmittel",
+   "Sublimat"
+  ],
+  "decoys": [
+   "Gipsstaub",
+   "Äthernebel",
+   "Wolle"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Dank der _____ kommt Essen auch im Handstand im Magen an.",
+  "a": "Peristaltik",
+  "alt": [
+   "Muskelbewegung der Speiseröhre"
+  ],
+  "decoys": [
+   "Schwerkraft",
+   "Magensäure",
+   "Darmzotten"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Bis sich das Auge vollständig an Dunkelheit angepasst hat, vergehen etwa _____ Minuten.",
+  "a": "30",
+  "alt": [
+   "dreißig"
+  ],
+  "decoys": [
+   "2",
+   "10",
+   "90"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das streifenbeinige Okapi ist der nächste lebende Verwandte der _____.",
+  "a": "Giraffe",
+  "alt": [
+   "Giraffen"
+  ],
+  "decoys": [
+   "Antilope",
+   "Zebra",
+   "Kuh"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Geparden können nicht brüllen, dafür aber _____.",
+  "a": "schnurren",
+  "alt": [
+   "Schnurren"
+  ],
+  "decoys": [
+   "bellen",
+   "heulen",
+   "wiehern"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Löwen schlafen bis zu _____ Stunden am Tag.",
+  "a": "20",
+  "alt": [
+   "zwanzig"
+  ],
+  "decoys": [
+   "12",
+   "16",
+   "8"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Männliche Schnabeltiere tragen an den Hinterbeinen einen giftigen _____.",
+  "a": "Sporn",
+  "alt": [
+   "Stachel"
+  ],
+  "decoys": [
+   "Zahn",
+   "Dorn",
+   "Haken"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Antarktische Pinguinkolonien erkennt man aus dem Weltall an ihrem _____.",
+  "a": "Kot",
+  "alt": [
+   "Guano",
+   "Pinguinkot"
+  ],
+  "decoys": [
+   "Schatten",
+   "Lärm",
+   "Fußabdruck"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der flugunfähige Kakapo aus Neuseeland ist der schwerste _____ der Welt.",
+  "a": "Papagei",
+  "alt": [
+   "Papageienart"
+  ],
+  "decoys": [
+   "Pinguin",
+   "Kuckuck",
+   "Raubvogel"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Pfuhlschnepfe hält den Rekord für den längsten Nonstop-Flug: über 13.000 Kilometer ohne _____.",
+  "a": "Zwischenlandung",
+  "alt": [
+   "Landung",
+   "Pause"
+  ],
+  "decoys": [
+   "Futter",
+   "Rückenwind",
+   "Schlaf"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Wanderalbatros erreicht mit bis zu rund _____ Metern die größte Flügelspannweite aller Vögel.",
+  "a": "3,5",
+  "alt": [
+   "3,7",
+   "3.5"
+  ],
+  "decoys": [
+   "2",
+   "5",
+   "7"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Name Chamäleon bedeutet aus dem Griechischen übersetzt „Erd-_____“.",
+  "a": "Löwe",
+  "alt": [
+   "Löwen"
+  ],
+  "decoys": [
+   "Schlange",
+   "Drache",
+   "Wolf"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Wort Alligator geht auf das spanische „el lagarto“ zurück, also auf die _____.",
+  "a": "Eidechse",
+  "alt": [
+   "Echse"
+  ],
+  "decoys": [
+   "Schlange",
+   "Schildkröte",
+   "Wasserratte"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der älteste Zoo Deutschlands, eröffnet 1844, steht in _____.",
+  "a": "Berlin",
+  "alt": [
+   "Zoo Berlin"
+  ],
+  "decoys": [
+   "Hamburg",
+   "München",
+   "Köln"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Basenji kann nicht bellen, gibt aber ein Geräusch von sich, das an _____ erinnert.",
+  "a": "Jodeln",
+  "alt": [
+   "jodeln",
+   "Gejodel"
+  ],
+  "decoys": [
+   "Gesang",
+   "Lachen",
+   "Krähen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Chihuahua ist nach einem Bundesstaat in _____ benannt.",
+  "a": "Mexiko",
+  "alt": [],
+  "decoys": [
+   "Spanien",
+   "Argentinien",
+   "Kuba"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die schwanzlose Manx-Katze stammt von der Insel _____.",
+  "a": "Man",
+  "alt": [
+   "Isle of Man"
+  ],
+  "decoys": [
+   "Wight",
+   "Skye",
+   "Malta"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Wellensittich Puck soll laut Guinness-Buch rund _____ verschiedene Wörter gekannt haben.",
+  "a": "1700",
+  "alt": [
+   "1728",
+   "1.728"
+  ],
+  "decoys": [
+   "300",
+   "500",
+   "900"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Riesenschildkröte Jonathan, geboren um 1832, lebt auf der Insel _____.",
+  "a": "St. Helena",
+  "alt": [
+   "Sankt Helena",
+   "Saint Helena"
+  ],
+  "decoys": [
+   "Galápagos",
+   "Mauritius",
+   "Madagaskar"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Galápagos-Meerechsen niesen überschüssiges _____ aus.",
+  "a": "Salz",
+  "alt": [
+   "Salzwasser"
+  ],
+  "decoys": [
+   "Wasser",
+   "Sand",
+   "Gift"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Kiwi ist der einzige Vogel mit Nasenlöchern an der _____.",
+  "a": "Schnabelspitze",
+  "alt": [
+   "Spitze des Schnabels"
+  ],
+  "decoys": [
+   "Kehle",
+   "Stirn",
+   "Flügelspitze"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die nächsten lebenden Verwandten der Seekühe sind die _____.",
+  "a": "Elefanten",
+  "alt": [
+   "Elefant"
+  ],
+  "decoys": [
+   "Robben",
+   "Wale",
+   "Nilpferde"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Aus dem Verdauungstrakt von Pottwalen stammt der Duftstoff _____.",
+  "a": "Ambra",
+  "alt": [
+   "Amber"
+  ],
+  "decoys": [
+   "Moschus",
+   "Zibet",
+   "Walrat"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Hippopotamus bedeutet aus dem Griechischen wörtlich „Fluss-_____“.",
+  "a": "Pferd",
+  "alt": [
+   "Ross"
+  ],
+  "decoys": [
+   "Schwein",
+   "Rind",
+   "Büffel"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Zähne von Bibern sind durch eingelagertes Eisen _____.",
+  "a": "orange",
+  "alt": [
+   "Orange",
+   "orangefarben"
+  ],
+  "decoys": [
+   "silbern",
+   "schwarz",
+   "grün"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Blut von Kraken und Hummern ist blau, weil es statt Eisen das Metall _____ enthält.",
+  "a": "Kupfer",
+  "alt": [],
+  "decoys": [
+   "Zink",
+   "Kobalt",
+   "Silber"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Grillen hören mit Ohren, die an ihren _____ sitzen.",
+  "a": "Beinen",
+  "alt": [
+   "Vorderbeinen"
+  ],
+  "decoys": [
+   "Fühlern",
+   "Flügeln",
+   "Hinterleib"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Seesterne haben weder Gehirn noch _____.",
+  "a": "Blut",
+  "alt": [],
+  "decoys": [
+   "Herz",
+   "Augen",
+   "Knochen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Ein Flamingo bekommt seine rosa Farbe von Farbstoffen aus Krebstieren und _____.",
+  "a": "Algen",
+  "alt": [],
+  "decoys": [
+   "Beeren",
+   "Mohrrüben",
+   "Blüten"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das grüne Leuchten von morschem Holz im Wald, verursacht durch Pilze, heißt im Volksmund _____.",
+  "a": "Fuchsfeuer",
+  "alt": [],
+  "decoys": [
+   "Irrlicht",
+   "Wolfsglut",
+   "Waldleuchten"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die riesige Blüte der Titanwurz riecht nach verwesendem _____.",
+  "a": "Aas",
+  "alt": [
+   "Fleisch"
+  ],
+  "decoys": [
+   "Fisch",
+   "Käse",
+   "Knoblauch"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Grannen-Kiefer „Methusalem“ in Kalifornien ist rund _____ Jahre alt.",
+  "a": "4850",
+  "alt": [
+   "4.850",
+   "4800",
+   "4.800"
+  ],
+  "decoys": [
+   "2300",
+   "1200",
+   "9000"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Ameisen haben neben dem eigenen noch einen zweiten, „sozialen“ _____, in dem sie Futter für andere transportieren.",
+  "a": "Magen",
+  "alt": [],
+  "decoys": [
+   "Kopf",
+   "Darm",
+   "Fühler"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Radnetzspinnen recyceln ihr altes Netz, indem sie es _____.",
+  "a": "auffressen",
+  "alt": [
+   "fressen",
+   "essen",
+   "aufessen"
+  ],
+  "decoys": [
+   "vergraben",
+   "verknoten",
+   "einweben"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Urlibelle Meganeura hatte eine Flügelspannweite von bis zu etwa _____ Zentimetern.",
+  "a": "70",
+  "alt": [
+   "65",
+   "siebzig"
+  ],
+  "decoys": [
+   "20",
+   "35",
+   "120"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Ein Teil des weißen Sandes tropischer Strände stammt aus dem Kot von _____.",
+  "a": "Papageifischen",
+  "alt": [
+   "Papageienfischen",
+   "Papageifisch"
+  ],
+  "decoys": [
+   "Seesternen",
+   "Seekühen",
+   "Muränen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Fangschreckenkrebs schlägt so schnell zu, dass im Wasser kurz winzige Dampfblasen entstehen, die man _____ nennt.",
+  "a": "Kavitationsblasen",
+  "alt": [
+   "Kavitation"
+  ],
+  "decoys": [
+   "Luftperlen",
+   "Schaumkronen",
+   "Sprudelringe"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der flinke Dinosaurier Velociraptor hatte Federn und war nur so groß wie ein _____.",
+  "a": "Truthahn",
+  "alt": [
+   "Pute",
+   "Puter"
+  ],
+  "decoys": [
+   "Pferd",
+   "Löwe",
+   "Braunbär"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Linsen der Augen vieler Trilobiten bestanden aus _____.",
+  "a": "Kalkspat",
+  "alt": [
+   "Kalzit",
+   "Calcit"
+  ],
+  "decoys": [
+   "Glas",
+   "Chitin",
+   "Bernstein"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Bernstein ist das versteinerte Harz von _____.",
+  "a": "Nadelbäumen",
+  "alt": [
+   "Bäumen",
+   "Koniferen",
+   "Kiefern"
+  ],
+  "decoys": [
+   "Palmen",
+   "Pilzen",
+   "Tannenzapfen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Erdnuss ist botanisch keine Nuss, sondern eine _____.",
+  "a": "Hülsenfrucht",
+  "alt": [
+   "Leguminose"
+  ],
+  "decoys": [
+   "Beere",
+   "Steinfrucht",
+   "Kapselfrucht"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Ötzi trug Stücke des Zunderschwamms bei sich, vermutlich zum Entfachen von _____.",
+  "a": "Feuer",
+  "alt": [
+   "Feuermachen"
+  ],
+  "decoys": [
+   "Heilsalben",
+   "Kräutertee",
+   "Fackeln"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Würfelqualle besitzt insgesamt _____ Augen.",
+  "a": "24",
+  "alt": [
+   "vierundzwanzig"
+  ],
+  "decoys": [
+   "2",
+   "8",
+   "100"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Rund zwei Drittel der Nervenzellen eines Oktopus sitzen in seinen _____.",
+  "a": "Armen",
+  "alt": [
+   "Tentakeln",
+   "Fangarmen"
+  ],
+  "decoys": [
+   "Augen",
+   "Saugnäpfen",
+   "Kiemen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Gift des Kugelfischs heißt _____.",
+  "a": "Tetrodotoxin",
+  "alt": [
+   "TTX"
+  ],
+  "decoys": [
+   "Strychnin",
+   "Curare",
+   "Batrachotoxin"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Pilz Ophiocordyceps lässt befallene _____ auf Pflanzen klettern und sich festbeißen.",
+  "a": "Ameisen",
+  "alt": [
+   "Ameise"
+  ],
+  "decoys": [
+   "Käfer",
+   "Raupen",
+   "Spinnen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Urvogel Archaeopteryx wurde 1861 bei Solnhofen in _____ entdeckt.",
+  "a": "Bayern",
+  "alt": [],
+  "decoys": [
+   "Sachsen",
+   "Thüringen",
+   "Baden"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Vom Meeresboden bis zur Spitze gemessen ist der Mauna Kea auf Hawaii mit über _____ Metern höher als der Everest.",
+  "a": "10.000",
+  "alt": [
+   "10000",
+   "zehntausend"
+  ],
+  "decoys": [
+   "8.000",
+   "6.500",
+   "12.500"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Im sibirischen Baikalsee lebt die Nerpa, eine reine Süßwasser-_____.",
+  "a": "Robbe",
+  "alt": [
+   "Robbenart",
+   "Seehund"
+  ],
+  "decoys": [
+   "Delfin",
+   "Schildkröte",
+   "Otter"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Kein Fluss der Erde fließt durch mehr Staaten als die Donau, nämlich durch _____.",
+  "a": "zehn",
+  "alt": [
+   "10"
+  ],
+  "decoys": [
+   "sieben",
+   "zwölf",
+   "fünfzehn"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das häufigste Metall in der Erdkruste ist _____.",
+  "a": "Aluminium",
+  "alt": [
+   "Aluminum"
+  ],
+  "decoys": [
+   "Eisen",
+   "Kupfer",
+   "Zink"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Element Wolfram heißt im Englischen nicht Wolfram, sondern _____.",
+  "a": "Tungsten",
+  "alt": [],
+  "decoys": [
+   "Tantalum",
+   "Wolframite",
+   "Titanium"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die ersten Lebewesen im Weltall waren 1947 an Bord einer US-Rakete _____.",
+  "a": "Fruchtfliegen",
+  "alt": [
+   "Fruchtfliege"
+  ],
+  "decoys": [
+   "Mäuse",
+   "Affen",
+   "Hunde"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die ISS umrundet die Erde rund _____ Mal pro Tag.",
+  "a": "16",
+  "alt": [
+   "sechzehn"
+  ],
+  "decoys": [
+   "4",
+   "8",
+   "32"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Im All wächst der Mensch um einige Zentimeter, weil sich seine _____ entlasten.",
+  "a": "Bandscheiben",
+  "alt": [
+   "Bandscheibe"
+  ],
+  "decoys": [
+   "Muskeln",
+   "Knochen",
+   "Sehnen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Rund 70 Prozent der gesamten Planetenmasse im Sonnensystem entfallen auf _____.",
+  "a": "Jupiter",
+  "alt": [],
+  "decoys": [
+   "Saturn",
+   "Neptun",
+   "die Erde"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Ein Sonnentag auf dem Merkur dauert 176 Erdentage, also zwei Merkur-_____.",
+  "a": "Jahre",
+  "alt": [
+   "Merkurjahre"
+  ],
+  "decoys": [
+   "Monate",
+   "Wochen",
+   "Nächte"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Bei Sonnenfinsternissen passt der Mond fast exakt vor die Sonne, weil er etwa _____-mal kleiner und ebenso viel näher ist.",
+  "a": "400",
+  "alt": [
+   "vierhundert"
+  ],
+  "decoys": [
+   "100",
+   "50",
+   "1000"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Gas Ozon ist nach dem griechischen Wort für '_____' benannt.",
+  "a": "riechen",
+  "alt": [
+   "Geruch",
+   "Duft"
+  ],
+  "decoys": [
+   "glänzen",
+   "atmen",
+   "schützen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Name des Elements Brom geht auf das griechische Wort für _____ zurück.",
+  "a": "Gestank",
+  "alt": [
+   "stinken"
+  ],
+  "decoys": [
+   "Salz",
+   "Feuer",
+   "Meer"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Auf der Mohs-Härteskala steht als weichstes Mineral mit Stufe 1 _____.",
+  "a": "Talk",
+  "alt": [
+   "Talkum"
+  ],
+  "decoys": [
+   "Kalkspat",
+   "Quarz",
+   "Glimmer"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Island driftet jährlich um etwa zwei Zentimeter auseinander, weil es auf der Grenze der Nordamerikanischen und der _____ Platte liegt.",
+  "a": "Eurasischen",
+  "alt": [
+   "Eurasische",
+   "Eurasische Platte"
+  ],
+  "decoys": [
+   "Afrikanischen",
+   "Pazifischen",
+   "Antarktischen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Onyx, der längste Fluss der Antarktis, führt nur im _____ Wasser.",
+  "a": "Sommer",
+  "alt": [
+   "Südsommer"
+  ],
+  "decoys": [
+   "Winter",
+   "Herbst",
+   "Frühling"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Durch die Gezeitenreibung des Mondes wird der Erdtag pro Jahrhundert um etwa zwei _____ länger.",
+  "a": "Millisekunden",
+  "alt": [
+   "Millisekunde",
+   "ms"
+  ],
+  "decoys": [
+   "Sekunden",
+   "Minuten",
+   "Mikrosekunden"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Als die Dinosaurier ausstarben, hatte ein Jahr rund _____ Tage.",
+  "a": "372",
+  "alt": [
+   "370"
+  ],
+  "decoys": [
+   "350",
+   "400",
+   "420"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Name Platin bedeutet auf Spanisch ungefähr 'kleines _____'.",
+  "a": "Silber",
+  "alt": [],
+  "decoys": [
+   "Gold",
+   "Eisen",
+   "Blei"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Flaggen der Schweiz und des _____ sind die einzigen quadratischen Nationalflaggen.",
+  "a": "Vatikans",
+  "alt": [
+   "Vatikan",
+   "Vatikanstadt"
+  ],
+  "decoys": [
+   "Monacos",
+   "Liechtensteins",
+   "San Marinos"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Auf der Flagge von Mosambik ist ein _____ abgebildet.",
+  "a": "Sturmgewehr",
+  "alt": [
+   "Kalaschnikow",
+   "AK-47"
+  ],
+  "decoys": [
+   "Anker",
+   "Dolch",
+   "Löwe"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die zu Kiribati gehörende Insel Kiritimati liegt in der Zeitzone UTC+_____.",
+  "a": "14",
+  "alt": [
+   "vierzehn"
+  ],
+  "decoys": [
+   "12",
+   "13",
+   "11"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Samoa überspringt Ende 2011 bewusst den _____. Dezember und wechselt damit die Datumsgrenze.",
+  "a": "30",
+  "alt": [
+   "dreißig",
+   "dreissig"
+  ],
+  "decoys": [
+   "24",
+   "31",
+   "15"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die deutsche Gemeinde Büsingen am Hochrhein ist komplett von der _____ umgeben.",
+  "a": "Schweiz",
+  "alt": [
+   "Eidgenossenschaft"
+  ],
+  "decoys": [
+   "Österreich",
+   "Tschechien",
+   "Frankreich"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "In der Doppelgemeinde Baarle entscheidet die Lage der _____ darüber, ob ein Haus belgisch oder niederländisch ist.",
+  "a": "Haustür",
+  "alt": [
+   "Eingangstür",
+   "Eingangstüre",
+   "Tür"
+  ],
+  "decoys": [
+   "Garage",
+   "Hausnummer",
+   "Dachrinne"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Deutschland hat mit _____ Nachbarländern gemeinsame Landgrenzen.",
+  "a": "neun",
+  "alt": [
+   "9"
+  ],
+  "decoys": [
+   "sieben",
+   "acht",
+   "elf"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Russland erstreckt sich über _____ Zeitzonen.",
+  "a": "elf",
+  "alt": [
+   "11"
+  ],
+  "decoys": [
+   "sieben",
+   "neun",
+   "vierzehn"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Grundriss der brasilianischen Hauptstadt Brasília erinnert an ein _____.",
+  "a": "Flugzeug",
+  "alt": [
+   "Flieger"
+  ],
+  "decoys": [
+   "Kreuz",
+   "Rad",
+   "Schachbrett"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das isländische Parlament Alþingi wurde um das Jahr _____ gegründet und gilt als eines der ältesten der Welt.",
+  "a": "930",
+  "alt": [],
+  "decoys": [
+   "1066",
+   "1215",
+   "1291"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die beiden Staatsoberhäupter Andorras sind der französische Präsident und der Bischof von _____.",
+  "a": "Urgell",
+  "alt": [
+   "La Seu d'Urgell",
+   "Seu d'Urgell"
+  ],
+  "decoys": [
+   "Barcelona",
+   "Girona",
+   "Toulouse"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Reichtum des Inselstaats Nauru beruhte lange auf dem Abbau von versteinertem Vogelkot, aus dem _____ gewonnen wird.",
+  "a": "Phosphat",
+  "alt": [
+   "Dünger"
+  ],
+  "decoys": [
+   "Salpeter",
+   "Kohle",
+   "Jod"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Legende nach fiel die dänische Flagge Dannebrog 1219 mitten in einer Schlacht vom _____.",
+  "a": "Himmel",
+  "alt": [],
+  "decoys": [
+   "Schiff",
+   "Mond",
+   "Turm"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Flagge Paraguays hat eine Vorderseite und eine Rückseite mit unterschiedlichem _____.",
+  "a": "Wappen",
+  "alt": [
+   "Emblem",
+   "Siegel"
+  ],
+  "decoys": [
+   "Farbverlauf",
+   "Stern",
+   "Motto"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "In Deutschland bleibt der bloße Ausbruch aus dem Gefängnis straffrei, weil der Drang nach _____ als menschlich gilt.",
+  "a": "Freiheit",
+  "alt": [],
+  "decoys": [
+   "Nahrung",
+   "Ruhe",
+   "Familie"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der genaue Grenzverlauf im _____ zwischen Deutschland, Österreich und der Schweiz ist bis heute nicht festgelegt.",
+  "a": "Bodensee",
+  "alt": [
+   "Bodensee"
+  ],
+  "decoys": [
+   "Rhein",
+   "Chiemsee",
+   "Genfersee"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Beim Zürcher Frühlingsfest Sechseläuten wird der Schneemann Böögg verbrannt; je schneller sein Kopf explodiert, desto besser wird der _____.",
+  "a": "Sommer",
+  "alt": [],
+  "decoys": [
+   "Winter",
+   "Herbst",
+   "Ernteertrag"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Inselgruppe Franz-Josef-Land im Nordpolarmeer wurde 1873 von einer österreichisch-ungarischen Expedition entdeckt und nach dem _____ benannt.",
+  "a": "Kaiser",
+  "alt": [
+   "Kaiser Franz Joseph"
+  ],
+  "decoys": [
+   "Polarforscher",
+   "Erzherzog",
+   "Expeditionsleiter"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Lipizzaner der Spanischen Hofreitschule in Wien werden dunkel geboren und erst mit den Jahren _____.",
+  "a": "weiß",
+  "alt": [
+   "Schimmel",
+   "weiss"
+  ],
+  "decoys": [
+   "grau",
+   "scheckig",
+   "gold"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Auf Spitzbergen dürfen Tote nicht _____ werden, weil sie im Permafrost nicht verwesen.",
+  "a": "begraben",
+  "alt": [
+   "beerdigt"
+  ],
+  "decoys": [
+   "verbrannt",
+   "eingeäschert",
+   "verschifft"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der brennende Gaskrater von Derweze in Turkmenistan trägt den Beinamen „Tor zur _____“.",
+  "a": "Hölle",
+  "alt": [],
+  "decoys": [
+   "Unterwelt",
+   "Wüste",
+   "Ewigkeit"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Luxemburg machte 2020 als erstes Land seinen gesamten öffentlichen _____ kostenlos.",
+  "a": "Nahverkehr",
+  "alt": [
+   "ÖPNV"
+  ],
+  "decoys": [
+   "Straßenbau",
+   "Fernverkehr",
+   "Rundfunk"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Nationalsport Bhutans ist _____.",
+  "a": "Bogenschießen",
+  "alt": [
+   "Bogenschiessen"
+  ],
+  "decoys": [
+   "Ringen",
+   "Polo",
+   "Kricket"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die USA kauften 1867 Alaska von Russland für rund zwei Cent pro _____.",
+  "a": "Acre",
+  "alt": [
+   "Morgen"
+  ],
+  "decoys": [
+   "Hektar",
+   "Quadratmeter",
+   "Quadratmeile"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der zweitkleinste Staat der Welt ist _____.",
+  "a": "Monaco",
+  "alt": [],
+  "decoys": [
+   "San Marino",
+   "Liechtenstein",
+   "Nauru"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Gambia ist fast vollständig vom Nachbarland _____ umschlossen.",
+  "a": "Senegal",
+  "alt": [],
+  "decoys": [
+   "Mali",
+   "Guinea",
+   "Mauretanien"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Lesotho ist das einzige Land der Welt, dessen gesamtes Staatsgebiet höher als _____ Meter über dem Meeresspiegel liegt.",
+  "a": "1000",
+  "alt": [
+   "tausend"
+  ],
+  "decoys": [
+   "500",
+   "1500",
+   "2000"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Legende nach ist die Stadt Bern nach dem ersten bei der Jagd erlegten _____ benannt.",
+  "a": "Bär",
+  "alt": [
+   "Bären"
+  ],
+  "decoys": [
+   "Hirsch",
+   "Wolf",
+   "Eber"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das österreichische Kleinwalsertal ist mit dem Auto nur über _____ erreichbar.",
+  "a": "Deutschland",
+  "alt": [
+   "Bayern"
+  ],
+  "decoys": [
+   "die Schweiz",
+   "Italien",
+   "Liechtenstein"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Philosoph Immanuel Kant verließ seine Heimatstadt _____ zeitlebens kaum.",
+  "a": "Königsberg",
+  "alt": [],
+  "decoys": [
+   "Danzig",
+   "Berlin",
+   "Riga"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Entdecker Roald Amundsen setzte bei seiner Südpol-Expedition 1911 vor allem auf _____.",
+  "a": "Schlittenhunde",
+  "alt": [
+   "Hunde",
+   "Hundeschlitten"
+  ],
+  "decoys": [
+   "Ponys",
+   "Motorschlitten",
+   "Rentiere"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das schwedische Kriegsschiff Wasa lag rund _____ Jahre auf dem Grund des Stockholmer Hafens.",
+  "a": "333",
+  "alt": [],
+  "decoys": [
+   "150",
+   "250",
+   "500"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Wikingerkönig Harald Blauzahn verdankt seinen Beinamen vermutlich einem dunklen, kaputten _____.",
+  "a": "Zahn",
+  "alt": [
+   "Backenzahn"
+  ],
+  "decoys": [
+   "Bart",
+   "Auge",
+   "Umhang"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Karl der Große übte der Überlieferung nach noch im Alter nachts mit Wachstafeln das _____.",
+  "a": "Schreiben",
+  "alt": [],
+  "decoys": [
+   "Rechnen",
+   "Lesen",
+   "Reiten"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Auf dem Grab Friedrichs des Großen in Sanssouci legen Besucher bis heute gern _____ ab.",
+  "a": "Kartoffeln",
+  "alt": [
+   "Kartoffel"
+  ],
+  "decoys": [
+   "Rosen",
+   "Münzen",
+   "Lorbeerkränze"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Ludwig XIV. regierte Frankreich rund _____ Jahre lang.",
+  "a": "72",
+  "alt": [],
+  "decoys": [
+   "58",
+   "64",
+   "80"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Am Hof Heinrichs VIII. gab es den Posten des „Groom of the Stool“, der dem König bei der _____ half.",
+  "a": "Toilettengang",
+  "alt": [
+   "Notdurft",
+   "Toilette"
+  ],
+  "decoys": [
+   "Rasur",
+   "Jagd",
+   "Schlafenszeit"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Kaiser Vespasian besteuerte das Sammeln von _____ für Gerbereien und Wäschereien.",
+  "a": "Urin",
+  "alt": [],
+  "decoys": [
+   "Asche",
+   "Tierfett",
+   "Regenwasser"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Alexander der Große nannte sein berühmtes Pferd _____.",
+  "a": "Bukephalos",
+  "alt": [
+   "Bucephalus",
+   "Bukephalas"
+  ],
+  "decoys": [
+   "Xanthos",
+   "Pegasos",
+   "Incitatus"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Auf der Titanic konnten Passagiere der ersten Klasse sogar _____ spielen.",
+  "a": "Squash",
+  "alt": [
+   "Squash-Court"
+  ],
+  "decoys": [
+   "Tennis",
+   "Bowling",
+   "Golf"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Kölner Dom war nach rund _____ Jahren Bauzeit im Jahr 1880 endlich fertig.",
+  "a": "632",
+  "alt": [
+   "630"
+  ],
+  "decoys": [
+   "300",
+   "450",
+   "900"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Tycho Brahes Haustier-Elch starb angeblich, nachdem er betrunken eine _____ hinuntergefallen war.",
+  "a": "Treppe",
+  "alt": [],
+  "decoys": [
+   "Klippe",
+   "Mauer",
+   "Kellerluke"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Kaiserin Elisabeth von Österreich ließ sich einen _____ auf die Schulter tätowieren.",
+  "a": "Anker",
+  "alt": [],
+  "decoys": [
+   "Schmetterling",
+   "Adler",
+   "Stern"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Maria Theresia bekam insgesamt _____ Kinder.",
+  "a": "16",
+  "alt": [
+   "sechzehn"
+  ],
+  "decoys": [
+   "9",
+   "12",
+   "20"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Jurist Barthélemy de Chasseneuz wurde im 16. Jahrhundert berühmt, weil er vor Gericht _____ verteidigte.",
+  "a": "Ratten",
+  "alt": [
+   "Ratte"
+  ],
+  "decoys": [
+   "Heuschrecken",
+   "Tauben",
+   "Wölfe"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Innengerüst der Freiheitsstatue stammt von dem Ingenieur _____.",
+  "a": "Gustave Eiffel",
+  "alt": [
+   "Eiffel"
+  ],
+  "decoys": [
+   "Ferdinand de Lesseps",
+   "Auguste Bartholdi",
+   "Isambard Brunel"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Uhrmacher John Harrison löste im 18. Jahrhundert das Problem der _____ auf See.",
+  "a": "Längengradbestimmung",
+  "alt": [
+   "Längengrad",
+   "Längenbestimmung"
+  ],
+  "decoys": [
+   "Windmessung",
+   "Tiefenmessung",
+   "Trinkwasserlagerung"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Bounty sollte 1789 Setzlinge des _____ von Tahiti in die Karibik bringen.",
+  "a": "Brotfruchtbaums",
+  "alt": [
+   "Brotfrucht",
+   "Brotfruchtbaum"
+  ],
+  "decoys": [
+   "Kakaobaums",
+   "Gummibaums",
+   "Mangobaums"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Kuppel des Pantheons in Rom ist bis heute die größte unbewehrte Kuppel aus _____.",
+  "a": "Beton",
+  "alt": [
+   "Zement"
+  ],
+  "decoys": [
+   "Marmor",
+   "Backstein",
+   "Granit"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Abraham Lincoln ist der einzige US-Präsident mit einem eingetragenen _____.",
+  "a": "Patent",
+  "alt": [],
+  "decoys": [
+   "Orden",
+   "Jagdschein",
+   "Handelsschiff"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "US-Präsident Ulysses S. Grant wurde einmal wegen zu schnellen Fahrens mit einer _____ festgenommen.",
+  "a": "Pferdekutsche",
+  "alt": [
+   "Kutsche"
+  ],
+  "decoys": [
+   "Dampflok",
+   "Postkutsche",
+   "Draisine"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Sumerer besangen die Göttin Ninkasi in einem Lied, das zugleich ein Rezept für _____ ist.",
+  "a": "Bier",
+  "alt": [],
+  "decoys": [
+   "Brot",
+   "Honigwein",
+   "Feigenwein"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Empire State Building entstand in nur etwa _____ Tagen.",
+  "a": "410",
+  "alt": [],
+  "decoys": [
+   "200",
+   "700",
+   "1000"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Heinrichs VIII. Kriegsschiff Mary Rose wurde 1982 nach rund _____ Jahren vom Meeresgrund gehoben.",
+  "a": "437",
+  "alt": [],
+  "decoys": [
+   "120",
+   "250",
+   "800"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Krieg zwischen El Salvador und Honduras von 1969 wird auch _____krieg genannt.",
+  "a": "Fußball",
+  "alt": [],
+  "decoys": [
+   "Bananen",
+   "Kaffee",
+   "Grenz"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Napoleon ließ 1806 die Quadriga vom Brandenburger Tor nach _____ bringen.",
+  "a": "Paris",
+  "alt": [],
+  "decoys": [
+   "Rom",
+   "Wien",
+   "Mailand"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das deutsche Wort 'Handy' versteht man in England kaum, dort sagt man stattdessen _____.",
+  "a": "Mobile",
+  "alt": [
+   "mobile phone",
+   "Mobiltelefon"
+  ],
+  "decoys": [
+   "Pocket Phone",
+   "Cellular",
+   "Handset"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Rautenzeichen # trägt in der Typografie den Fantasienamen _____.",
+  "a": "Oktothorpe",
+  "alt": [
+   "Octothorpe"
+  ],
+  "decoys": [
+   "Hashtagon",
+   "Gatterkreuz",
+   "Quadrathorn"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Wort 'Ampersand' für das &-Zeichen ist eine Verschleifung von 'and per se _____'.",
+  "a": "and",
+  "alt": [
+   "und"
+  ],
+  "decoys": [
+   "add",
+   "at",
+   "ampere"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Wort 'Ketchup' stammt vermutlich von einer chinesischen Soße aus eingelegtem _____.",
+  "a": "Fisch",
+  "alt": [
+   "Fischsauce"
+  ],
+  "decoys": [
+   "Tomaten",
+   "Ingwer",
+   "Pflaumen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Multipliziert man 111.111.111 mit sich selbst, steigen die Ziffern von 1 bis 9 und fallen dann wieder bis _____.",
+  "a": "1",
+  "alt": [
+   "eins"
+  ],
+  "decoys": [
+   "0",
+   "3",
+   "5"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Buchstabe J entwickelte sich erst im Mittelalter aus dem Buchstaben _____.",
+  "a": "I",
+  "alt": [
+   "i"
+  ],
+  "decoys": [
+   "G",
+   "Y",
+   "L"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Vorname Wendy wurde erst durch das Theaterstück _____ richtig bekannt.",
+  "a": "Peter Pan",
+  "alt": [
+   "Peter Pan und Wendy"
+  ],
+  "decoys": [
+   "Alice im Wunderland",
+   "Der Zauberer von Oz",
+   "Mary Poppins"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Den Vornamen Vanessa erfand der Schriftsteller _____ für ein Gedicht.",
+  "a": "Jonathan Swift",
+  "alt": [
+   "Swift"
+  ],
+  "decoys": [
+   "Daniel Defoe",
+   "Lord Byron",
+   "Charles Dickens"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Wort 'chortle' erfand Lewis Carroll aus 'chuckle' und _____.",
+  "a": "snort",
+  "alt": [
+   "Schnauben"
+  ],
+  "decoys": [
+   "chatter",
+   "giggle",
+   "cough"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Roman 'Gadsby' von 1939 kommt auf 50.000 Wörtern komplett ohne den Buchstaben _____ aus.",
+  "a": "E",
+  "alt": [
+   "e"
+  ],
+  "decoys": [
+   "A",
+   "S",
+   "T"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Bär, der A. A. Milne zu Winnie Puh inspirierte, hieß Winnipeg und lebte im Zoo von _____.",
+  "a": "London",
+  "alt": [
+   "London Zoo"
+  ],
+  "decoys": [
+   "Toronto",
+   "Edinburgh",
+   "Winnipeg"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Pippi Langstrumpf entstand 1941 für Astrid Lindgrens Tochter, die mit _____ im Bett lag.",
+  "a": "Lungenentzündung",
+  "alt": [
+   "Lungenentzuendung"
+  ],
+  "decoys": [
+   "Masern",
+   "Windpocken",
+   "Grippe"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Franz Kafka wollte, dass sein Nachlass nach seinem Tod _____ wird.",
+  "a": "verbrannt",
+  "alt": [
+   "vernichtet"
+  ],
+  "decoys": [
+   "veröffentlicht",
+   "versteigert",
+   "vergraben"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der erste Duden von 1880 enthielt rund _____ Stichwörter.",
+  "a": "27.000",
+  "alt": [
+   "27000"
+  ],
+  "decoys": [
+   "5.000",
+   "60.000",
+   "120.000"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Gleichheitszeichen erfand 1557 der Waliser Robert Recorde, weil nichts so gleich sei wie zwei _____.",
+  "a": "parallele Linien",
+  "alt": [
+   "Parallelen",
+   "parallele Striche"
+  ],
+  "decoys": [
+   "Zwillinge",
+   "Eier",
+   "Tropfen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Divisionszeichen ÷ heißt in der Fachsprache _____.",
+  "a": "Obelus",
+  "alt": [
+   "Obelos"
+  ],
+  "decoys": [
+   "Teilstrich",
+   "Dividend",
+   "Lemniskate"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Symbol π ist der Anfangsbuchstabe des griechischen Wortes für _____.",
+  "a": "Umfang",
+  "alt": [
+   "Peripherie",
+   "perimetros"
+  ],
+  "decoys": [
+   "Kreis",
+   "Mitte",
+   "Zahl"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Fast alle vierstelligen Zahlen landen beim wiederholten Sortieren und Subtrahieren ihrer Ziffern bei der Zahl _____.",
+  "a": "6174",
+  "alt": [
+   "Kaprekar-Konstante"
+  ],
+  "decoys": [
+   "1089",
+   "7641",
+   "9999"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Auf der Kanareninsel _____ verständigen sich Menschen mit einer gepfiffenen Sprache.",
+  "a": "La Gomera",
+  "alt": [
+   "Gomera"
+  ],
+  "decoys": [
+   "Teneriffa",
+   "Lanzarote",
+   "Fuerteventura"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Wort 'Kiosk' stammt vom persisch-türkischen Wort für einen _____ im Garten.",
+  "a": "Pavillon",
+  "alt": [
+   "Gartenpavillon",
+   "Gartenhaus"
+  ],
+  "decoys": [
+   "Brunnen",
+   "Verkaufsstand",
+   "Turm"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Wunsch 'Hals- und Beinbruch' stammt wohl vom jiddischen 'hazloche un broche', also '_____ und Segen'.",
+  "a": "Glück",
+  "alt": [
+   "Gluck"
+  ],
+  "decoys": [
+   "Heil",
+   "Frieden",
+   "Gesundheit"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das englische Wort 'typewriter' lässt sich komplett mit den Buchstaben der obersten _____ der Tastatur tippen.",
+  "a": "Reihe",
+  "alt": [
+   "Tastenreihe",
+   "Zeile"
+  ],
+  "decoys": [
+   "Ecke",
+   "Hälfte",
+   "Spalte"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die römische Zahlschrift besitzt kein Zeichen für die _____.",
+  "a": "Null",
+  "alt": [
+   "0"
+  ],
+  "decoys": [
+   "Eins",
+   "Hundert",
+   "Million"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Dr. Seuss schrieb 'Green Eggs and Ham' mit nur _____ verschiedenen Wörtern.",
+  "a": "50",
+  "alt": [
+   "fünfzig"
+  ],
+  "decoys": [
+   "10",
+   "100",
+   "250"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Schriftsteller Vladimir Nabokov erforschte nebenbei wissenschaftlich _____.",
+  "a": "Schmetterlinge",
+  "alt": [
+   "Falter"
+  ],
+  "decoys": [
+   "Käfer",
+   "Spinnen",
+   "Moose"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das K in J. K. Rowling steht für den Namen ihrer Großmutter, nämlich _____.",
+  "a": "Kathleen",
+  "alt": [
+   "Kathleen Rowling"
+  ],
+  "decoys": [
+   "Katherine",
+   "Karen",
+   "Kimberly"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Satzzeichen Interrobang ‽ kombiniert Fragezeichen und _____.",
+  "a": "Ausrufezeichen",
+  "alt": [
+   "Ausrufungszeichen"
+  ],
+  "decoys": [
+   "Komma",
+   "Anführungszeichen",
+   "Doppelpunkt"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Pringles-Erfinder Fredric Baur wurde auf eigenen Wunsch teilweise in einer _____ beigesetzt.",
+  "a": "Pringles-Dose",
+  "alt": [
+   "Pringles Dose",
+   "Chipsdose"
+  ],
+  "decoys": [
+   "Keksdose",
+   "Thermoskanne",
+   "Zigarrenkiste"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Weil Kakao knapp war, streckte der Konditor Pietro Ferrero in den 1940ern seine Süßcreme mit _____.",
+  "a": "Haselnüssen",
+  "alt": [
+   "Haselnüsse",
+   "Haselnuss"
+  ],
+  "decoys": [
+   "Mandeln",
+   "Kastanien",
+   "Walnüssen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die erste Fanta wurde 1940 in Deutschland unter anderem aus Apfelfasern und _____ gemischt.",
+  "a": "Molke",
+  "alt": [
+   "Süßmolke"
+  ],
+  "decoys": [
+   "Rübensaft",
+   "Buttermilch",
+   "Malzextrakt"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Reife Cranberries springen wie Gummibälle, weil sie im Inneren kleine _____ haben.",
+  "a": "Lufttaschen",
+  "alt": [
+   "Luftkammern",
+   "Luftblasen",
+   "Lufträume"
+  ],
+  "decoys": [
+   "Gelkammern",
+   "Wasserblasen",
+   "Zuckerkristalle"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Handbestäubung der Vanille entdeckte 1841 auf Réunion der zwölfjährige Sklave Edmond _____.",
+  "a": "Albius",
+  "alt": [],
+  "decoys": [
+   "Dantès",
+   "Bourbon",
+   "Delacroix"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Große Mengen _____ können Halluzinationen und Vergiftungen auslösen.",
+  "a": "Muskatnuss",
+  "alt": [
+   "Muskat"
+  ],
+  "decoys": [
+   "Zimt",
+   "Nelken",
+   "Kümmel"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Wilbur Scoville, nach dem die Chili-Schärfeskala benannt ist, war von Beruf _____.",
+  "a": "Apotheker",
+  "alt": [
+   "Pharmazeut"
+  ],
+  "decoys": [
+   "Koch",
+   "Botaniker",
+   "Gewürzhändler"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Maische für Tabasco-Sauce reift bis zu drei Jahre lang in Fässern aus _____.",
+  "a": "Eiche",
+  "alt": [
+   "Eichenholz",
+   "Weißeiche"
+  ],
+  "decoys": [
+   "Kastanie",
+   "Kirschholz",
+   "Zeder"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Ein britisches Gericht entschied 1991, dass Jaffa Cakes steuerlich als _____ gelten.",
+  "a": "Kuchen",
+  "alt": [
+   "Kuchen (Cake)",
+   "Torte"
+  ],
+  "decoys": [
+   "Kekse",
+   "Schokolade",
+   "Süßigkeiten"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Beim Käserollen am Cooper's Hill in England jagen Teilnehmer einem rollenden Laib _____ hinterher.",
+  "a": "Double Gloucester",
+  "alt": [
+   "Gloucester"
+  ],
+  "decoys": [
+   "Cheddar",
+   "Stilton",
+   "Wensleydale"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Pepsi-Cola hieß bis 1898 noch „Brad's _____“.",
+  "a": "Drink",
+  "alt": [],
+  "decoys": [
+   "Cola",
+   "Soda",
+   "Tonic"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die erste deutsche McDonald's-Filiale eröffnete 1971 in _____.",
+  "a": "München",
+  "alt": [
+   "Munchen"
+  ],
+  "decoys": [
+   "Frankfurt",
+   "Berlin",
+   "Hamburg"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "In Großbritannien hieß der Schokoriegel Snickers bis 1990 _____.",
+  "a": "Marathon",
+  "alt": [],
+  "decoys": [
+   "Mars",
+   "Bounty",
+   "Milky Way"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Spaghetti-Eis erfand 1969 der Eisdielenbesitzer Dario Fontanella in _____.",
+  "a": "Mannheim",
+  "alt": [],
+  "decoys": [
+   "Stuttgart",
+   "Köln",
+   "Heidelberg"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Frische Ananas kann die Zunge brennen lassen, weil das Enzym Bromelain _____ abbaut.",
+  "a": "Eiweiß",
+  "alt": [
+   "Protein",
+   "Eiweiss"
+  ],
+  "decoys": [
+   "Zucker",
+   "Fett",
+   "Stärke"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Eine durchschnittliche Erdbeere trägt auf ihrer Oberfläche etwa _____ Nüsschen.",
+  "a": "200",
+  "alt": [
+   "zweihundert"
+  ],
+  "decoys": [
+   "50",
+   "500",
+   "1000"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Red Bull geht auf das thailändische Getränk Krating Daeng zurück, das „roter _____“ bedeutet.",
+  "a": "Gaur",
+  "alt": [
+   "Wildrind",
+   "Bison"
+  ],
+  "decoys": [
+   "Stier",
+   "Büffel",
+   "Elefant"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Campari wurde bis 2006 mit rotem Farbstoff aus Schildläusen gefärbt, genannt _____.",
+  "a": "Cochenille",
+  "alt": [
+   "Karmin",
+   "E120"
+  ],
+  "decoys": [
+   "Hibiskus",
+   "Rote Bete",
+   "Paprika"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das zweite M bei M&M's steht für den Nachnamen von Bruce _____.",
+  "a": "Murrie",
+  "alt": [],
+  "decoys": [
+   "Miller",
+   "Morton",
+   "Maxwell"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Chupa-Chups-Logo entwarf 1969 der Künstler Salvador _____.",
+  "a": "Dalí",
+  "alt": [
+   "Dali"
+  ],
+  "decoys": [
+   "Picasso",
+   "Miró",
+   "Gaudí"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Hühner mit weißen Eiern haben meist auch weiße _____.",
+  "a": "Ohrläppchen",
+  "alt": [
+   "Ohren"
+  ],
+  "decoys": [
+   "Federn",
+   "Krallen",
+   "Kämme"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Süßstoff Aspartam wurde 1965 zufällig bei der Suche nach einem Mittel gegen _____ entdeckt.",
+  "a": "Magengeschwüre",
+  "alt": [
+   "Magengeschwür",
+   "Geschwüre"
+  ],
+  "decoys": [
+   "Kopfschmerzen",
+   "Husten",
+   "Bluthochdruck"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Kraut mit dem Spitznamen „Maggikraut“ heißt _____.",
+  "a": "Liebstöckel",
+  "alt": [
+   "Liebstoeckel"
+  ],
+  "decoys": [
+   "Bohnenkraut",
+   "Beifuß",
+   "Estragon"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Eine einzelne Banane nennt man im Fachjargon „_____“, ein ganzes Büschel „Hand“.",
+  "a": "Finger",
+  "alt": [],
+  "decoys": [
+   "Zeh",
+   "Daumen",
+   "Nagel"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Bei einer Artischocke isst man eigentlich die ungeöffnete _____ einer Distelart.",
+  "a": "Blüte",
+  "alt": [
+   "Blütenknospe",
+   "Knospe"
+  ],
+  "decoys": [
+   "Frucht",
+   "Wurzel",
+   "Knolle"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die allererste SMS der Welt, verschickt 1992, lautete „Merry _____“.",
+  "a": "Christmas",
+  "alt": [
+   "Weihnachten"
+  ],
+  "decoys": [
+   "Birthday",
+   "Greetings",
+   "Holidays",
+   "Evening"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der berühmte Nokia-Klingelton stammt aus einem Stück für _____ des Komponisten Francisco Tárrega.",
+  "a": "Gitarre",
+  "alt": [
+   "Gitarrenstück"
+  ],
+  "decoys": [
+   "Klavier",
+   "Violine",
+   "Flöte",
+   "Cembalo"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Barbies vollständiger Name lautet Barbara _____ Roberts.",
+  "a": "Millicent",
+  "alt": [],
+  "decoys": [
+   "Elizabeth",
+   "Victoria",
+   "Josephine",
+   "Charlotte"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Bevor sie Flugzeuge bauten, betrieben die Brüder Wright in Ohio eine _____werkstatt.",
+  "a": "Fahrrad",
+  "alt": [
+   "Fahrradwerkstatt"
+  ],
+  "decoys": [
+   "Auto",
+   "Uhren",
+   "Schreibmaschinen",
+   "Kutschen"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der erste Motorflug der Brüder Wright 1903 dauerte nur etwa _____ Sekunden.",
+  "a": "12",
+  "alt": [
+   "zwölf"
+  ],
+  "decoys": [
+   "45",
+   "30",
+   "5",
+   "60"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Ray Harroun fuhr 1911 beim Indy 500 als einer der Ersten mit einem _____ am Auto.",
+  "a": "Rückspiegel",
+  "alt": [
+   "Spiegel"
+  ],
+  "decoys": [
+   "Sicherheitsgurt",
+   "Kühlergrill",
+   "Blinker",
+   "Scheibenwischer"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die erste Verkehrsampel der Welt in London musste 1869 abgebaut werden, nachdem sie durch eine _____ einen Polizisten verletzte.",
+  "a": "Explosion",
+  "alt": [
+   "Gasexplosion"
+  ],
+  "decoys": [
+   "Überspannung",
+   "Kollision",
+   "Brandstiftung",
+   "Fehlschaltung"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die erste jemals registrierte .com-Domain hieß _____.",
+  "a": "symbolics.com",
+  "alt": [
+   "symbolics"
+  ],
+  "decoys": [
+   "apple.com",
+   "ibm.com",
+   "nordu.com",
+   "mit.com"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das erste Foto im World Wide Web zeigte 1992 eine Parodie-_____ aus dem Umfeld des Forschungszentrums CERN.",
+  "a": "Band",
+  "alt": [
+   "Girlgroup",
+   "Musikgruppe"
+  ],
+  "decoys": [
+   "Zeitung",
+   "Sportmannschaft",
+   "Theatertruppe",
+   "Kantine"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Schauspielerin Hedy Lamarr entwickelte ein Frequenzsprung-Verfahren, das ursprünglich der Steuerung von _____ dienen sollte.",
+  "a": "Torpedos",
+  "alt": [
+   "Torpedo"
+  ],
+  "decoys": [
+   "Raketen",
+   "Flugzeugen",
+   "Radios",
+   "Funkgeräten"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Lego-Steine aus dem Jahr _____ passen noch heute auf aktuelle Steine.",
+  "a": "1958",
+  "alt": [],
+  "decoys": [
+   "1932",
+   "1949",
+   "1971",
+   "1965"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Spielzeug-Roboter Furby wurde Ende der 1990er in den Gebäuden des US-Geheimdienstes _____ verboten.",
+  "a": "NSA",
+  "alt": [],
+  "decoys": [
+   "CIA",
+   "FBI",
+   "Pentagon",
+   "Secret Service"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der erste Computerwurm „Creeper“ zeigte 1971 die Meldung „I'm the _____, catch me if you can“.",
+  "a": "Creeper",
+  "alt": [],
+  "decoys": [
+   "Ghost",
+   "Hacker",
+   "Runner",
+   "Spider"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Autoname Audi ist die lateinische Übersetzung von „Horch“ und bedeutet etwa „_____!“.",
+  "a": "Höre",
+  "alt": [
+   "Hör",
+   "Hör zu",
+   "Horch"
+  ],
+  "decoys": [
+   "Fahre",
+   "Schau",
+   "Komm",
+   "Lauf"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Kurznachrichtendienst Twitter hieß im Entwurf zunächst nur _____.",
+  "a": "twttr",
+  "alt": [
+   "Twttr"
+  ],
+  "decoys": [
+   "Tweeter",
+   "Chirp",
+   "Birdy",
+   "twitr"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die Einführung einheitlicher Zeitzonen wurde vor allem von der _____ vorangetrieben.",
+  "a": "Eisenbahn",
+  "alt": [
+   "Bahn"
+  ],
+  "decoys": [
+   "Schifffahrt",
+   "Post",
+   "Armee",
+   "Kirche"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der japanische Hochgeschwindigkeitszug Shinkansen hat im Jahresschnitt weniger als eine _____ Verspätung.",
+  "a": "Minute",
+  "alt": [],
+  "decoys": [
+   "Stunde",
+   "Sekunde",
+   "Viertelstunde",
+   "Woche"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Pierre de Coubertin gewann 1912 Olympia-Gold für ein Gedicht, das er unter den Pseudonymen Hohrod und _____ einreichte.",
+  "a": "Eschbach",
+  "alt": [],
+  "decoys": [
+   "Hartmann",
+   "Lindau",
+   "Brunner"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Elfmeter geht auf den Torwart und Leinenfabrikanten William McCrum aus _____ zurück.",
+  "a": "Irland",
+  "alt": [
+   "Nordirland"
+  ],
+  "decoys": [
+   "Schottland",
+   "Wales",
+   "England"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Wort Schach geht auf das persische Wort für _____ zurück.",
+  "a": "König",
+  "alt": [
+   "Schah"
+  ],
+  "decoys": [
+   "Krieger",
+   "Festung",
+   "Herrscherin"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Im Zweiten Weltkrieg schmuggelte Großbritannien Fluchtkarten und Kompasse in Monopoly-Spielen zu _____.",
+  "a": "Kriegsgefangenen",
+  "alt": [
+   "Gefangenen"
+  ],
+  "decoys": [
+   "Spionen",
+   "Piloten",
+   "Widerstandskämpfern"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Alfred Butts nannte die erste Fassung seines späteren Spiels Scrabble _____.",
+  "a": "Lexiko",
+  "alt": [
+   "Lexico"
+  ],
+  "decoys": [
+   "Wortkreuz",
+   "Buchstabenjagd",
+   "Alphabeta"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Oscar heißt offiziell 'Academy Award of _____'.",
+  "a": "Merit",
+  "alt": [],
+  "decoys": [
+   "Honor",
+   "Excellence",
+   "Distinction"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Wegen Metallknappheit bestanden die Oscars im Zweiten Weltkrieg aus bemaltem _____.",
+  "a": "Gips",
+  "alt": [
+   "Plaster"
+  ],
+  "decoys": [
+   "Holz",
+   "Ton",
+   "Pappmaché"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der erste abendfüllende Animationsfilm der Welt, 'El Apóstol' von 1917, entstand in _____.",
+  "a": "Argentinien",
+  "alt": [],
+  "decoys": [
+   "Frankreich",
+   "den USA",
+   "Deutschland"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die geschwungene Fassade des Guggenheim-Museums in Bilbao ist mit Platten aus _____ verkleidet.",
+  "a": "Titan",
+  "alt": [],
+  "decoys": [
+   "Aluminium",
+   "Kupfer",
+   "Edelstahl"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Stoff Denim hat seinen Namen von der französischen Stadt _____.",
+  "a": "Nîmes",
+  "alt": [
+   "Nimes"
+  ],
+  "decoys": [
+   "Genua",
+   "Lyon",
+   "Marseille"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "In der niederländischen Stadt _____ stehen alle Brücken der Euro-Scheine als Nachbauten.",
+  "a": "Spijkenisse",
+  "alt": [],
+  "decoys": [
+   "Maastricht",
+   "Delft",
+   "Eindhoven"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das längste Tennisspiel der Geschichte, Isner gegen Mahut in Wimbledon 2010, dauerte 11 Stunden und _____ Minuten.",
+  "a": "5",
+  "alt": [
+   "fünf"
+  ],
+  "decoys": [
+   "15",
+   "25",
+   "45"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Im Jahr 2001 gewann Australien ein Länderspiel mit 31:0 gegen _____.",
+  "a": "Amerikanisch-Samoa",
+  "alt": [
+   "American Samoa"
+  ],
+  "decoys": [
+   "Tonga",
+   "Vanuatu",
+   "Guam"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die letzten Olympia-Goldmedaillen aus massivem Gold wurden 1912 in _____ vergeben.",
+  "a": "Stockholm",
+  "alt": [],
+  "decoys": [
+   "Antwerpen",
+   "London",
+   "Paris"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Begriff Hattrick stammt ursprünglich aus dem _____.",
+  "a": "Cricket",
+  "alt": [],
+  "decoys": [
+   "Rugby",
+   "Golf",
+   "Eishockey"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Brasiliens Fußball-Nationalelf spielte bis in die 1950er Jahre in _____ Trikots.",
+  "a": "weißen",
+  "alt": [
+   "weiß"
+  ],
+  "decoys": [
+   "blauen",
+   "grünen",
+   "roten"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Name Cluedo kombiniert 'clue' mit dem lateinischen 'ludo', was 'ich _____' bedeutet.",
+  "a": "spiele",
+  "alt": [],
+  "decoys": [
+   "jage",
+   "rate",
+   "würfle"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Die spanische Nationalhymne hat offiziell keinen _____.",
+  "a": "Text",
+  "alt": [
+   "Liedtext"
+  ],
+  "decoys": [
+   "Refrain",
+   "Komponisten",
+   "Rhythmus"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Der Letztplatzierte der Tour de France trägt den inoffiziellen Titel 'Lanterne _____'.",
+  "a": "Rouge",
+  "alt": [
+   "rouge"
+  ],
+  "decoys": [
+   "Noire",
+   "Jaune",
+   "Blanche"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "In Massachusetts gibt es das 'Museum of _____ Art', das bewusst misslungene Gemälde sammelt.",
+  "a": "Bad",
+  "alt": [],
+  "decoys": [
+   "Lost",
+   "Cheap",
+   "Ugly"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Coco Chanel wählte für ihr Parfum die Probe Nummer 5, weil sie diese Zahl für ihre _____ hielt.",
+  "a": "Glückszahl",
+  "alt": [],
+  "decoys": [
+   "Alterszahl",
+   "Lieblingsfarbe",
+   "Hausnummer"
+  ]
+ },
+ {
+  "cat": "Unnützes Wissen",
+  "q": "Das Wort Sneaker kommt vom englischen 'sneak', weil man in den Gummisohlen _____ konnte.",
+  "a": "schleichen",
+  "alt": [
+   "leise gehen"
+  ],
+  "decoys": [
+   "springen",
+   "rutschen",
+   "tanzen"
+  ]
  }
 ]
