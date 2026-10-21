@@ -10,7 +10,7 @@ const QUESTIONS = JSON.parse(fs.readFileSync(path.join(__dirname, 'questions.jso
 const CATEGORIES = [...new Set(QUESTIONS.map((q) => q.cat))];
 const INDEX_FILE = path.join(__dirname, 'index.html');
 
-const MIN_PLAYERS = 3;
+const MIN_PLAYERS = 2;
 const MAX_PLAYERS = 12;
 const MAX_ROOMS = 500;
 const REVEAL_AUTO_MS = 45000;

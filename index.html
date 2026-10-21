@@ -294,7 +294,7 @@ input::placeholder { color: rgba(203,191,238,.6); }
       h('section', { class: 'panel' }, h('span', { class: 'label' }, 'Spieler (' + st.players.length + ')'), playerList()),
       settings,
       host
-        ? h('button', { class: 'btn', disabled: !ready, onclick: function () { send({ t: 'start' }); } }, ready ? 'Spiel starten' : 'Noch ' + (st.minPlayers - connected) + ' Spieler fehlen')
+        ? h('button', { class: 'btn', disabled: !ready, onclick: function () { send({ t: 'start' }); } }, ready ? 'Spiel starten' : 'Noch ' + (st.minPlayers - connected) + (st.minPlayers - connected === 1 ? ' Spieler fehlt' : ' Spieler fehlen'))
         : h('div', { class: 'banner' }, 'Warte, bis ' + nameOf(st.host) + ' das Spiel startet.'),
       leaveButton()
     ];
