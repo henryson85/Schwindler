@@ -105,6 +105,16 @@ input::placeholder { color: rgba(203,191,238,.6); }
 .opt.truth { border-color: var(--good); background: rgba(47,224,176,.18); }
 .opt .by { font-size: .85rem; font-weight: 500; color: var(--muted); display: block; margin-top: 4px; }
 .opt .txt { min-width: 0; }
+.rcard { border: 2px solid var(--line); background: var(--surface); border-radius: 16px; padding: 14px 16px; display: flex; flex-direction: column; gap: 8px; }
+.rcard.truth { border-color: var(--good); background: rgba(47,224,176,.18); }
+.rcard.game { border-style: dashed; opacity: .9; }
+.rtag { font-size: .8rem; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
+.rcard.truth .rtag { color: var(--good); }
+.rtxt { font-weight: 800; font-size: 1.3rem; overflow-wrap: anywhere; }
+.rvotes { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.rlab { font-size: .85rem; color: var(--muted); font-weight: 600; margin-right: 2px; }
+.vchip { color: #14101f; font-weight: 800; font-size: .95rem; padding: 5px 12px; border-radius: 999px; }
+.vchip.me { outline: 3px solid #fff; }
 .opt .tick { width: 22px; height: 22px; border-radius: 50%; border: 2px solid var(--line); flex: none; }
 .opt.picked .tick { background: var(--accent); border-color: var(--accent); }
 .gain { font-family: var(--font-display); font-weight: 800; color: var(--good); font-variant-numeric: tabular-nums; }
@@ -169,6 +179,12 @@ input::placeholder { color: rgba(203,191,238,.6); }
   }
   function me() { return S.st && S.st.players.filter(function (p) { return p.id === S.st.you; })[0]; }
   function isHost() { return S.st && S.st.host === S.st.you; }
+  var PCOL = ['#ff5d8f', '#ffb020', '#2fe0b0', '#5b8cff', '#c06bff', '#ff7a45', '#33c8ff', '#9be04d', '#ff6bd6', '#ffd23f', '#6bf0c8', '#a7a7ff'];
+  function colorOf(name) {
+    var ps = S.st ? S.st.players : [], k = 0;
+    for (var q = 0; q < ps.length; q++) if (ps[q].name === name) { k = q; break; }
+    return PCOL[k % PCOL.length];
+  }
   function nameOf(id) { var p = S.st.players.filter(function (x) { return x.id === id; })[0]; return p ? p.name : '?'; }
   function draftInput(id, props) {
     props = props || {};
@@ -193,7 +209,7 @@ input::placeholder { color: rgba(203,191,238,.6); }
     ws.onmessage = function (ev) {
       var m; try { m = JSON.parse(ev.data); } catch (e) { return; }
       if (m.t === 'joined') { S.session = { code: m.code, pid: m.pid, token: m.token }; save('schwindler-session', S.session); }
-      else if (m.t === 'state') { S.st = m.state; S.offset = m.state.serverNow - Date.now(); render(); }
+      else if (m.t === 'state') { var prevN = S.st && S.st.round ? S.st.round.n : 0, newN = m.state.round ? m.state.round.n : 0; if (newN !== prevN || m.state.phase === 'lobby' || m.state.mySubmitted) S.drafts.lie = ''; S.st = m.state; S.offset = m.state.serverNow - Date.now(); render(); }
       else if (m.t === 'error') toast(m.msg);
       else if (m.t === 'rejoin_failed') { S.session = null; S.st = null; drop('schwindler-session'); render(); }
     };
@@ -372,11 +388,16 @@ input::placeholder { color: rgba(203,191,238,.6); }
         h('span', { class: 'label' }, 'Auflösung · Frage ' + st.round.n + ' von ' + st.round.total),
         h('h2', null, 'Richtig war: ' + rv.truth)),
       h('div', { class: 'stack' }, order.map(function (o) {
-        var by = o.isTruth ? 'Die wahre Antwort' : o.byGame ? 'Vom Spiel erfunden' : 'Gelogen von ' + o.authors.join(' und ');
-        return h('div', { class: 'opt' + (o.isTruth ? ' truth' : ''), style: 'cursor:default' },
-          h('span', { class: 'txt' }, o.text,
-            h('span', { class: 'by' }, by),
-            h('span', { class: 'by' }, o.voters.length ? 'Gewählt von ' + o.voters.join(', ') : 'Niemand hat das gewählt')));
+        var cls = o.isTruth ? 'truth' : o.byGame ? 'game' : 'lie';
+        var tag = o.isTruth ? '✔ DIE WAHRHEIT' : o.byGame ? '🤖 Köder vom Spiel' : '🤥 Lüge von ' + o.authors.join(' und ');
+        var mineLie = o.authors.indexOf(nameOf(st.you)) >= 0;
+        var chips = o.voters.length
+          ? o.voters.map(function (n) { return h('span', { class: 'vchip' + (n === nameOf(st.you) ? ' me' : ''), style: 'background:' + colorOf(n) }, n + (n === nameOf(st.you) ? ' (du)' : '')); })
+          : [h('span', { class: 'muted small' }, 'Niemand hat das gewählt')];
+        return h('div', { class: 'rcard ' + cls },
+          h('div', { class: 'rtag' }, tag + (mineLie ? ' (deine)' : '')),
+          h('div', { class: 'rtxt' }, o.text),
+          h('div', { class: 'rvotes' }, h('span', { class: 'rlab' }, o.voters.length ? '👆 Gewählt von:' : ''), chips));
       })),
       h('section', { class: 'panel' }, h('span', { class: 'label' }, 'Punkte'), playerList({ sort: true, score: true, gains: rv.gains })),
       host
